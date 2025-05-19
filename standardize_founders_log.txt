@@ -1,0 +1,1775 @@
+Founder Standardization Log - Session Start: 2025-05-19 11:06:02
+2025-05-19 11:06:02 - Starting standardization process for Unicorns_cleaned_with_founders.csv...
+2025-05-19 11:06:02 - Standardizing founders for company (1): SpaceX
+2025-05-19 11:06:02 - Standardizing founders for company (2): OpenAI
+2025-05-19 11:06:02 - Standardizing founders for company (3): ByteDance
+2025-05-19 11:06:02 - Standardizing founders for company (4): Ant Group
+2025-05-19 11:06:02 - Standardizing founders for company (5): Reliance Retail
+2025-05-19 11:06:02 - Standardizing founders for company (6): Shein
+2025-05-19 11:06:02 - Standardizing founders for company (7): Stripe
+2025-05-19 11:06:02 - Standardizing founders for company (8): Databricks
+2025-05-19 11:06:02 - Standardizing founders for company (9): Anthropic
+2025-05-19 11:06:02 - Standardizing founders for company (10): Reliance Jio
+2025-05-19 11:06:02 - Standardizing founders for company (11): xAI
+2025-05-19 11:06:02 - Standardizing founders for company (12): Revolut
+2025-05-19 11:06:02 - Standardizing founders for company (13): Waymo
+2025-05-19 11:06:02 - Standardizing founders for company (14): Checkout.com
+2025-05-19 11:06:02 - Standardizing founders for company (15): JUUL
+2025-05-19 11:06:02 - Standardizing founders for company (16): Canva
+2025-05-19 11:06:02 - Standardizing founders for company (17): Safe Superintelligence
+2025-05-19 11:06:02 - Standardizing founders for company (18): Fanatics
+2025-05-19 11:06:02 - Standardizing founders for company (19): Cruise
+2025-05-19 11:06:02 - Standardizing founders for company (20): Alibaba Bendi Shenghuo Fuwu Gongsi
+2025-05-19 11:06:02 - Standardizing founders for company (21): Chime
+2025-05-19 11:06:02 - Standardizing founders for company (22): Yangtze Memory Technologies
+2025-05-19 11:06:02 - Standardizing founders for company (23): Epic Games
+2025-05-19 11:06:02 - Standardizing founders for company (24): BYJU'S
+2025-05-19 11:06:02 - Standardizing founders for company (25): Envision Group
+2025-05-19 11:06:02 - Standardizing founders for company (26): J&T Express
+2025-05-19 11:06:02 - Standardizing founders for company (27): FNZ
+2025-05-19 11:06:02 - Standardizing founders for company (28): ChangXin Memory Technologies
+2025-05-19 11:06:02 - Standardizing founders for company (29): JD Digits
+2025-05-19 11:06:02 - Standardizing founders for company (30): Miro
+2025-05-19 11:06:02 - Standardizing founders for company (31): Xiaohongshu
+2025-05-19 11:06:02 - Standardizing founders for company (32): Yuanfudao
+2025-05-19 11:06:02 - Standardizing founders for company (33): Rippling
+2025-05-19 11:06:02 - Standardizing founders for company (34): Trendyol Group
+2025-05-19 11:06:02 - Standardizing founders for company (35): Yinwang Smart Technology
+2025-05-19 11:06:02 - Standardizing founders for company (36): Discord
+2025-05-19 11:06:02 - Standardizing founders for company (37): Gopuff
+2025-05-19 11:06:02 - Standardizing founders for company (38): Genki Forest
+2025-05-19 11:06:02 - Standardizing founders for company (39): CloudKitchens
+2025-05-19 11:06:02 - Standardizing founders for company (40): Bitmain
+2025-05-19 11:06:02 - Standardizing founders for company (41): GAC Aion New Energy Automobile
+2025-05-19 11:06:02 - Standardizing founders for company (42): Anduril Industries
+2025-05-19 11:06:02 - Standardizing founders for company (43): Scale AI
+2025-05-19 11:06:02 - Standardizing founders for company (44): OpenSea
+2025-05-19 11:06:02 - Standardizing founders for company (45): Grammarly
+2025-05-19 11:06:02 - Standardizing founders for company (46): Devoted Health
+2025-05-19 11:06:02 - Standardizing founders for company (47): Celonis
+2025-05-19 11:06:02 - Standardizing founders for company (48): Ramp
+2025-05-19 11:06:02 - Standardizing founders for company (49): Faire
+2025-05-19 11:06:02 - Standardizing founders for company (50): Figma
+2025-05-19 11:06:02 - Standardizing founders for company (51): Infinite Reality
+2025-05-19 11:06:02 - Standardizing founders for company (52): PhonePe
+2025-05-19 11:06:02 - Standardizing founders for company (53): GoodLeap
+2025-05-19 11:06:02 - Standardizing founders for company (54): Biosplice Therapeutics
+2025-05-19 11:06:02 - Standardizing founders for company (55): Xingsheng Youxuan
+2025-05-19 11:06:02 - Standardizing founders for company (56): Deel
+2025-05-19 11:06:02 - Standardizing founders for company (57): Northvolt
+2025-05-19 11:06:02 - Standardizing founders for company (58): Airtable
+2025-05-19 11:06:02 - Standardizing founders for company (59): Dunamu
+2025-05-19 11:06:02 - Standardizing founders for company (60): The Access Group
+2025-05-19 11:06:02 - Standardizing founders for company (61): Notion
+2025-05-19 11:06:02 - Standardizing founders for company (62): Alchemy
+2025-05-19 11:06:02 - Standardizing founders for company (63): Colossal Biosciences
+2025-05-19 11:06:02 - Standardizing founders for company (64): KuCoin
+2025-05-19 11:06:02 - Standardizing founders for company (65): Digital Currency Group
+2025-05-19 11:06:02 - Standardizing founders for company (66): Ripple
+2025-05-19 11:06:02 - Standardizing founders for company (67): Zuoyebang
+2025-05-19 11:06:02 - Standardizing founders for company (68): Chehaoduo
+2025-05-19 11:06:02 - Standardizing founders for company (69): Talkdesk
+2025-05-19 11:06:02 - Standardizing founders for company (70): Thrasio
+2025-05-19 11:06:02 - Standardizing founders for company (71): Lalamove
+2025-05-19 11:06:02 - Standardizing founders for company (72): Mahindra Electric Automobile
+2025-05-19 11:06:02 - Standardizing founders for company (73): Gusto
+2025-05-19 11:06:02 - Standardizing founders for company (74): Navan
+2025-05-19 11:06:02 - Standardizing founders for company (75): Tata Passenger Electric Mobility
+2025-05-19 11:06:02 - Standardizing founders for company (76): N26
+2025-05-19 11:06:02 - Standardizing founders for company (77): Tanium
+2025-05-19 11:06:02 - Standardizing founders for company (78): Yanolja
+2025-05-19 11:06:02 - Standardizing founders for company (79): Perplexity
+2025-05-19 11:06:02 - Standardizing founders for company (80): VAST Data
+2025-05-19 11:06:02 - Standardizing founders for company (81): Niantic
+2025-05-19 11:06:02 - Standardizing founders for company (82): Anysphere
+2025-05-19 11:06:02 - Standardizing founders for company (83): HeyTea
+2025-05-19 11:06:02 - Standardizing founders for company (84): Octopus Energy
+2025-05-19 11:06:02 - Standardizing founders for company (85): EV Co
+2025-05-19 11:06:02 - Standardizing founders for company (86): Ping An Healthcare Management
+2025-05-19 11:06:02 - Standardizing founders for company (87): Personio
+2025-05-19 11:06:02 - Standardizing founders for company (88): Bolt
+2025-05-19 11:06:02 - Standardizing founders for company (89): Tipalti
+2025-05-19 11:06:02 - Standardizing founders for company (90): The CrownX
+2025-05-19 11:06:02 - Standardizing founders for company (91): DJI
+2025-05-19 11:06:02 - Standardizing founders for company (92): Flexport
+2025-05-19 11:06:02 - Standardizing founders for company (93): Fireblocks
+2025-05-19 11:06:02 - Standardizing founders for company (94): THG Ingenuity
+2025-05-19 11:06:02 - Standardizing founders for company (95): FalconX
+2025-05-19 11:06:02 - Standardizing founders for company (96): StarkWare Industries
+2025-05-19 11:06:02 - Standardizing founders for company (97): Dream11
+2025-05-19 11:06:02 - Standardizing founders for company (98): Caris Life Sciences
+2025-05-19 11:06:02 - Standardizing founders for company (99): RingCentral Events
+2025-05-19 11:06:02 - Standardizing founders for company (100): CALB
+2025-05-19 11:06:02 - Standardizing founders for company (101): AutoStore
+2025-05-19 11:06:02 - Standardizing founders for company (102): Circle
+2025-05-19 11:06:02 - Standardizing founders for company (103): Leapmotor
+2025-05-19 11:06:02 - Standardizing founders for company (104): Jiedaibao
+2025-05-19 11:06:02 - Standardizing founders for company (105): Dapper Labs
+2025-05-19 11:06:02 - Standardizing founders for company (106): Netskope
+2025-05-19 11:06:02 - Standardizing founders for company (107): Flock Safety
+2025-05-19 11:06:02 - Standardizing founders for company (108): Snyk
+2025-05-19 11:06:02 - Standardizing founders for company (109): Carta
+2025-05-19 11:06:02 - Standardizing founders for company (110): Brex
+2025-05-19 11:06:02 - Standardizing founders for company (111): Kakao Japan
+2025-05-19 11:06:02 - Standardizing founders for company (112): Gong
+2025-05-19 11:06:02 - Standardizing founders for company (113): Blockchain.com
+2025-05-19 11:06:02 - Standardizing founders for company (114): ConsenSys
+2025-05-19 11:06:02 - Standardizing founders for company (115): Ro
+2025-05-19 11:06:02 - Standardizing founders for company (116): Meicai
+2025-05-19 11:06:02 - Standardizing founders for company (117): Constellation Automotive Group
+2025-05-19 11:06:02 - Standardizing founders for company (118): Attentive
+2025-05-19 11:06:02 - Standardizing founders for company (119): Cohesity
+2025-05-19 11:06:02 - Standardizing founders for company (120): The Boring Company
+2025-05-19 11:06:02 - Standardizing founders for company (121): Wonder
+2025-05-19 11:06:02 - Standardizing founders for company (122): NYDIG
+2025-05-19 11:06:02 - Standardizing founders for company (123): Impossible Foods
+2025-05-19 11:06:02 - Standardizing founders for company (124): Toss
+2025-05-19 11:06:02 - Standardizing founders for company (125): 1Password
+2025-05-19 11:06:02 - Standardizing founders for company (126): Automation Anywhere
+2025-05-19 11:06:02 - Standardizing founders for company (127): WeDoctor
+2025-05-19 11:06:02 - Standardizing founders for company (128): Klarna
+2025-05-19 11:06:02 - Standardizing founders for company (129): Ola
+2025-05-19 11:06:02 - Standardizing founders for company (130): Ziroom
+2025-05-19 11:06:02 - Standardizing founders for company (131): Razorpay
+2025-05-19 11:06:02 - Standardizing founders for company (132): Snapdeal
+2025-05-19 11:06:02 - Standardizing founders for company (133): Mollie
+2025-05-19 11:06:02 - Standardizing founders for company (134): CRED
+2025-05-19 11:06:02 - Standardizing founders for company (135): Doctolib
+2025-05-19 11:06:02 - Standardizing founders for company (136): GTA Semiconductor
+2025-05-19 11:06:02 - Standardizing founders for company (137): DataRobot
+2025-05-19 11:06:02 - Standardizing founders for company (138): Upgrade
+2025-05-19 11:06:02 - Standardizing founders for company (139): Hinge Health
+2025-05-19 11:06:02 - Standardizing founders for company (140): Hello TransTech
+2025-05-19 11:06:02 - Standardizing founders for company (141): Plaid
+2025-05-19 11:06:02 - Standardizing founders for company (142): Benchling
+2025-05-19 11:06:02 - Standardizing founders for company (143): Mistral AI
+2025-05-19 11:06:02 - Standardizing founders for company (144): CMC
+2025-05-19 11:06:02 - Standardizing founders for company (145): Lianjia
+2025-05-19 11:06:02 - Standardizing founders for company (146): Changxin New Bridge
+2025-05-19 11:06:02 - Standardizing founders for company (147): Nuro
+2025-05-19 11:06:02 - Standardizing founders for company (148): iCapital Network
+2025-05-19 11:06:02 - Standardizing founders for company (149): Didi Woya
+2025-05-19 11:06:02 - Standardizing founders for company (150): Biocon Biologics
+2025-05-19 11:06:02 - Standardizing founders for company (151): Applied Intuition
+2025-05-19 11:06:02 - Standardizing founders for company (152): Commure
+2025-05-19 11:06:02 - Standardizing founders for company (153): Grafana Labs
+2025-05-19 11:06:02 - Standardizing founders for company (154): Animoca Brands
+2025-05-19 11:06:02 - Standardizing founders for company (155): Monzo
+2025-05-19 11:06:02 - Standardizing founders for company (156): Lyra Health
+2025-05-19 11:06:02 - Standardizing founders for company (157): SandboxAQ
+2025-05-19 11:06:02 - Standardizing founders for company (158): Vice Media
+2025-05-19 11:06:02 - Standardizing founders for company (159): Cityblock Health
+2025-05-19 11:06:02 - Standardizing founders for company (160): Workato
+2025-05-19 11:06:02 - Standardizing founders for company (161): Back Market
+2025-05-19 11:06:02 - Standardizing founders for company (162): RELEX Solutions
+2025-05-19 11:06:02 - Standardizing founders for company (163): Postman
+2025-05-19 11:06:02 - Standardizing founders for company (164): Fivetran
+2025-05-19 11:06:02 - Standardizing founders for company (165): Contentsquare
+2025-05-19 11:06:02 - Standardizing founders for company (166): SVOLT
+2025-05-19 11:06:02 - Standardizing founders for company (167): Mambu
+2025-05-19 11:06:02 - Standardizing founders for company (168): Airwallex
+2025-05-19 11:06:02 - Standardizing founders for company (169): Vuori
+2025-05-19 11:06:02 - Standardizing founders for company (170): Cohere
+2025-05-19 11:06:02 - Standardizing founders for company (171): Helion Energy
+2025-05-19 11:06:02 - Standardizing founders for company (172): Vinted
+2025-05-19 11:06:02 - Standardizing founders for company (173): Helsing
+2025-05-19 11:06:02 - Standardizing founders for company (174): Trade Republic
+2025-05-19 11:06:02 - Standardizing founders for company (175): Rappi
+2025-05-19 11:06:02 - Standardizing founders for company (176): Sierra Space
+2025-05-19 11:06:02 - Standardizing founders for company (177): Quantinuum
+2025-05-19 11:06:02 - Standardizing founders for company (178): Shield AI
+2025-05-19 11:06:02 - Standardizing founders for company (179): Odoo
+2025-05-19 11:06:02 - Standardizing founders for company (180): Collibra
+2025-05-19 11:06:02 - Standardizing founders for company (181): Redwood Materials
+2025-05-19 11:06:02 - Standardizing founders for company (182): Xiaodu
+2025-05-19 11:06:02 - Standardizing founders for company (183): 6sense
+2025-05-19 11:06:02 - Standardizing founders for company (184): Oura
+2025-05-19 11:06:02 - Standardizing founders for company (185): MTN Group Fintech
+2025-05-19 11:06:02 - Standardizing founders for company (186): SpaceX
+2025-05-19 11:06:02 - Standardizing founders for company (187): OpenAI
+2025-05-19 11:06:02 - Standardizing founders for company (188): ByteDance
+2025-05-19 11:06:02 - Standardizing founders for company (189): Ant Group
+2025-05-19 11:06:02 - Standardizing founders for company (190): Reliance Retail
+2025-05-19 11:06:02 - Standardizing founders for company (191): Shein
+2025-05-19 11:06:02 - Standardizing founders for company (192): Stripe
+2025-05-19 11:06:02 - Standardizing founders for company (193): Databricks
+2025-05-19 11:06:02 - Standardizing founders for company (194): Anthropic
+2025-05-19 11:06:02 - Standardizing founders for company (195): Reliance Jio
+2025-05-19 11:06:02 - Standardizing founders for company (196): xAI
+2025-05-19 11:06:02 - Standardizing founders for company (197): Revolut
+2025-05-19 11:06:02 - Standardizing founders for company (198): Waymo
+2025-05-19 11:06:02 - Standardizing founders for company (199): Checkout.com
+2025-05-19 11:06:02 - Standardizing founders for company (200): JUUL
+2025-05-19 11:06:02 - Standardizing founders for company (201): Canva
+2025-05-19 11:06:02 - Standardizing founders for company (202): Safe Superintelligence
+2025-05-19 11:06:02 - Standardizing founders for company (203): Fanatics
+2025-05-19 11:06:02 - Standardizing founders for company (204): Cruise
+2025-05-19 11:06:02 - Standardizing founders for company (205): Alibaba Bendi Shenghuo Fuwu Gongsi
+2025-05-19 11:06:02 - Standardizing founders for company (206): Chime
+2025-05-19 11:06:02 - Standardizing founders for company (207): Yangtze Memory Technologies
+2025-05-19 11:06:02 - Standardizing founders for company (208): Epic Games
+2025-05-19 11:06:02 - Standardizing founders for company (209): BYJU'S
+2025-05-19 11:06:02 - Standardizing founders for company (210): Envision Group
+2025-05-19 11:06:02 - Standardizing founders for company (211): J&T Express
+2025-05-19 11:06:02 - Standardizing founders for company (212): FNZ
+2025-05-19 11:06:02 - Standardizing founders for company (213): ChangXin Memory Technologies
+2025-05-19 11:06:02 - Standardizing founders for company (214): JD Digits
+2025-05-19 11:06:02 - Standardizing founders for company (215): Miro
+2025-05-19 11:06:02 - Standardizing founders for company (216): Xiaohongshu
+2025-05-19 11:06:02 - Standardizing founders for company (217): Yuanfudao
+2025-05-19 11:06:02 - Standardizing founders for company (218): Rippling
+2025-05-19 11:06:02 - Standardizing founders for company (219): Trendyol Group
+2025-05-19 11:06:02 - Standardizing founders for company (220): Yinwang Smart Technology
+2025-05-19 11:06:02 - Standardizing founders for company (221): Discord
+2025-05-19 11:06:02 - Standardizing founders for company (222): Gopuff
+2025-05-19 11:06:02 - Standardizing founders for company (223): Genki Forest
+2025-05-19 11:06:02 - Standardizing founders for company (224): CloudKitchens
+2025-05-19 11:06:02 - Standardizing founders for company (225): Bitmain
+2025-05-19 11:06:02 - Standardizing founders for company (226): GAC Aion New Energy Automobile
+2025-05-19 11:06:02 - Standardizing founders for company (227): Anduril Industries
+2025-05-19 11:06:02 - Standardizing founders for company (228): Scale AI
+2025-05-19 11:06:02 - Standardizing founders for company (229): OpenSea
+2025-05-19 11:06:02 - Standardizing founders for company (230): Grammarly
+2025-05-19 11:06:02 - Standardizing founders for company (231): Devoted Health
+2025-05-19 11:06:02 - Standardizing founders for company (232): Celonis
+2025-05-19 11:06:02 - Standardizing founders for company (233): Ramp
+2025-05-19 11:06:02 - Standardizing founders for company (234): Faire
+2025-05-19 11:06:02 - Standardizing founders for company (235): Figma
+2025-05-19 11:06:02 - Standardizing founders for company (236): Infinite Reality
+2025-05-19 11:06:02 - Standardizing founders for company (237): PhonePe
+2025-05-19 11:06:02 - Standardizing founders for company (238): GoodLeap
+2025-05-19 11:06:02 - Standardizing founders for company (239): Biosplice Therapeutics
+2025-05-19 11:06:02 - Standardizing founders for company (240): Xingsheng Youxuan
+2025-05-19 11:06:02 - Standardizing founders for company (241): Deel
+2025-05-19 11:06:02 - Standardizing founders for company (242): Northvolt
+2025-05-19 11:06:02 - Standardizing founders for company (243): Airtable
+2025-05-19 11:06:02 - Standardizing founders for company (244): Dunamu
+2025-05-19 11:06:02 - Standardizing founders for company (245): The Access Group
+2025-05-19 11:06:02 - Standardizing founders for company (246): Notion
+2025-05-19 11:06:02 - Standardizing founders for company (247): Alchemy
+2025-05-19 11:06:02 - Standardizing founders for company (248): Colossal Biosciences
+2025-05-19 11:06:02 - Standardizing founders for company (249): KuCoin
+2025-05-19 11:06:02 - Standardizing founders for company (250): Digital Currency Group
+2025-05-19 11:06:02 - Standardizing founders for company (251): Ripple
+2025-05-19 11:06:02 - Standardizing founders for company (252): Zuoyebang
+2025-05-19 11:06:02 - Standardizing founders for company (253): Chehaoduo
+2025-05-19 11:06:02 - Standardizing founders for company (254): Talkdesk
+2025-05-19 11:06:02 - Standardizing founders for company (255): Thrasio
+2025-05-19 11:06:02 - Standardizing founders for company (256): Lalamove
+2025-05-19 11:06:02 - Standardizing founders for company (257): Mahindra Electric Automobile
+2025-05-19 11:06:02 - Standardizing founders for company (258): Gusto
+2025-05-19 11:06:02 - Standardizing founders for company (259): Navan
+2025-05-19 11:06:02 - Standardizing founders for company (260): Tata Passenger Electric Mobility
+2025-05-19 11:06:02 - Standardizing founders for company (261): N26
+2025-05-19 11:06:02 - Standardizing founders for company (262): Tanium
+2025-05-19 11:06:02 - Standardizing founders for company (263): Yanolja
+2025-05-19 11:06:02 - Standardizing founders for company (264): Perplexity
+2025-05-19 11:06:02 - Standardizing founders for company (265): VAST Data
+2025-05-19 11:06:02 - Standardizing founders for company (266): Niantic
+2025-05-19 11:06:02 - Standardizing founders for company (267): Anysphere
+2025-05-19 11:06:02 - Standardizing founders for company (268): HeyTea
+2025-05-19 11:06:02 - Standardizing founders for company (269): Octopus Energy
+2025-05-19 11:06:02 - Standardizing founders for company (270): EV Co
+2025-05-19 11:06:02 - Standardizing founders for company (271): Ping An Healthcare Management
+2025-05-19 11:06:02 - Standardizing founders for company (272): Personio
+2025-05-19 11:06:02 - Standardizing founders for company (273): Bolt
+2025-05-19 11:06:02 - Standardizing founders for company (274): Tipalti
+2025-05-19 11:06:02 - Standardizing founders for company (275): The CrownX
+2025-05-19 11:06:02 - Standardizing founders for company (276): DJI
+2025-05-19 11:06:02 - Standardizing founders for company (277): Flexport
+2025-05-19 11:06:02 - Standardizing founders for company (278): Fireblocks
+2025-05-19 11:06:02 - Standardizing founders for company (279): THG Ingenuity
+2025-05-19 11:06:02 - Standardizing founders for company (280): FalconX
+2025-05-19 11:06:02 - Standardizing founders for company (281): StarkWare Industries
+2025-05-19 11:06:02 - Standardizing founders for company (282): Dream11
+2025-05-19 11:06:02 - Standardizing founders for company (283): Caris Life Sciences
+2025-05-19 11:06:02 - Standardizing founders for company (284): RingCentral Events
+2025-05-19 11:06:02 - Standardizing founders for company (285): CALB
+2025-05-19 11:06:02 - Standardizing founders for company (286): AutoStore
+2025-05-19 11:06:02 - Standardizing founders for company (287): Circle
+2025-05-19 11:06:02 - Standardizing founders for company (288): Leapmotor
+2025-05-19 11:06:02 - Standardizing founders for company (289): Jiedaibao
+2025-05-19 11:06:02 - Standardizing founders for company (290): Dapper Labs
+2025-05-19 11:06:02 - Standardizing founders for company (291): Netskope
+2025-05-19 11:06:02 - Standardizing founders for company (292): Flock Safety
+2025-05-19 11:06:02 - Standardizing founders for company (293): Snyk
+2025-05-19 11:06:02 - Standardizing founders for company (294): Carta
+2025-05-19 11:06:02 - Standardizing founders for company (295): Brex
+2025-05-19 11:06:02 - Standardizing founders for company (296): Kakao Japan
+2025-05-19 11:06:02 - Standardizing founders for company (297): Gong
+2025-05-19 11:06:02 - Standardizing founders for company (298): Blockchain.com
+2025-05-19 11:06:02 - Standardizing founders for company (299): ConsenSys
+2025-05-19 11:06:02 - Standardizing founders for company (300): Ro
+2025-05-19 11:06:02 - Standardizing founders for company (301): Meicai
+2025-05-19 11:06:02 - Standardizing founders for company (302): Constellation Automotive Group
+2025-05-19 11:06:02 - Standardizing founders for company (303): Attentive
+2025-05-19 11:06:02 - Standardizing founders for company (304): Cohesity
+2025-05-19 11:06:02 - Standardizing founders for company (305): The Boring Company
+2025-05-19 11:06:02 - Standardizing founders for company (306): Wonder
+2025-05-19 11:06:02 - Standardizing founders for company (307): NYDIG
+2025-05-19 11:06:02 - Standardizing founders for company (308): Impossible Foods
+2025-05-19 11:06:02 - Standardizing founders for company (309): Toss
+2025-05-19 11:06:02 - Standardizing founders for company (310): 1Password
+2025-05-19 11:06:02 - Standardizing founders for company (311): Automation Anywhere
+2025-05-19 11:06:02 - Standardizing founders for company (312): WeDoctor
+2025-05-19 11:06:02 - Standardizing founders for company (313): Klarna
+2025-05-19 11:06:02 - Standardizing founders for company (314): Ola
+2025-05-19 11:06:02 - Standardizing founders for company (315): Ziroom
+2025-05-19 11:06:02 - Standardizing founders for company (316): Razorpay
+2025-05-19 11:06:02 - Standardizing founders for company (317): Snapdeal
+2025-05-19 11:06:02 - Standardizing founders for company (318): Mollie
+2025-05-19 11:06:02 - Standardizing founders for company (319): CRED
+2025-05-19 11:06:02 - Standardizing founders for company (320): Doctolib
+2025-05-19 11:06:02 - Standardizing founders for company (321): GTA Semiconductor
+2025-05-19 11:06:02 - Standardizing founders for company (322): DataRobot
+2025-05-19 11:06:02 - Standardizing founders for company (323): Upgrade
+2025-05-19 11:06:02 - Standardizing founders for company (324): Hinge Health
+2025-05-19 11:06:02 - Standardizing founders for company (325): Hello TransTech
+2025-05-19 11:06:02 - Standardizing founders for company (326): Plaid
+2025-05-19 11:06:02 - Standardizing founders for company (327): Benchling
+2025-05-19 11:06:02 - Standardizing founders for company (328): Mistral AI
+2025-05-19 11:06:02 - Standardizing founders for company (329): CMC
+2025-05-19 11:06:02 - Standardizing founders for company (330): Lianjia
+2025-05-19 11:06:02 - Standardizing founders for company (331): Changxin New Bridge
+2025-05-19 11:06:02 - Standardizing founders for company (332): Nuro
+2025-05-19 11:06:02 - Standardizing founders for company (333): iCapital Network
+2025-05-19 11:06:02 - Standardizing founders for company (334): Didi Woya
+2025-05-19 11:06:02 - Standardizing founders for company (335): Biocon Biologics
+2025-05-19 11:06:02 - Standardizing founders for company (336): Applied Intuition
+2025-05-19 11:06:02 - Standardizing founders for company (337): Commure
+2025-05-19 11:06:02 - Standardizing founders for company (338): Grafana Labs
+2025-05-19 11:06:02 - Standardizing founders for company (339): Animoca Brands
+2025-05-19 11:06:02 - Standardizing founders for company (340): Monzo
+2025-05-19 11:06:02 - Standardizing founders for company (341): Lyra Health
+2025-05-19 11:06:02 - Standardizing founders for company (342): SandboxAQ
+2025-05-19 11:06:02 - Standardizing founders for company (343): Vice Media
+2025-05-19 11:06:02 - Standardizing founders for company (344): Cityblock Health
+2025-05-19 11:06:02 - Standardizing founders for company (345): Workato
+2025-05-19 11:06:02 - Standardizing founders for company (346): Back Market
+2025-05-19 11:06:02 - Standardizing founders for company (347): RELEX Solutions
+2025-05-19 11:06:02 - Standardizing founders for company (348): Postman
+2025-05-19 11:06:02 - Standardizing founders for company (349): Fivetran
+2025-05-19 11:06:02 - Standardizing founders for company (350): Contentsquare
+2025-05-19 11:06:02 - Standardizing founders for company (351): SVOLT
+2025-05-19 11:06:02 - Standardizing founders for company (352): Mambu
+2025-05-19 11:06:02 - Standardizing founders for company (353): Airwallex
+2025-05-19 11:06:02 - Standardizing founders for company (354): Vuori
+2025-05-19 11:06:02 - Standardizing founders for company (355): Cohere
+2025-05-19 11:06:02 - Standardizing founders for company (356): Helion Energy
+2025-05-19 11:06:02 - Standardizing founders for company (357): Vinted
+2025-05-19 11:06:02 - Standardizing founders for company (358): Helsing
+2025-05-19 11:06:02 - Standardizing founders for company (359): Trade Republic
+2025-05-19 11:06:02 - Standardizing founders for company (360): Rappi
+2025-05-19 11:06:02 - Standardizing founders for company (361): Sierra Space
+2025-05-19 11:06:02 - Standardizing founders for company (362): Quantinuum
+2025-05-19 11:06:02 - Standardizing founders for company (363): Shield AI
+2025-05-19 11:06:02 - Standardizing founders for company (364): Odoo
+2025-05-19 11:06:02 - Standardizing founders for company (365): Collibra
+2025-05-19 11:06:02 - Standardizing founders for company (366): Redwood Materials
+2025-05-19 11:06:02 - Standardizing founders for company (367): Xiaodu
+2025-05-19 11:06:02 - Standardizing founders for company (368): 6sense
+2025-05-19 11:06:02 - Standardizing founders for company (369): Oura
+2025-05-19 11:06:02 - Standardizing founders for company (370): MTN Group Fintech
+2025-05-19 11:06:02 - Standardizing founders for company (371): Abnormal Security
+2025-05-19 11:06:02 - Standardizing founders for company (372): SambaNova Systems
+2025-05-19 11:06:02 - Standardizing founders for company (373): QuintoAndar
+2025-05-19 11:06:02 - Standardizing founders for company (374): Pine Labs
+2025-05-19 11:06:02 - Standardizing founders for company (375): United Imaging Healthcare
+2025-05-19 11:06:02 - Standardizing founders for company (376): C6 Bank
+2025-05-19 11:06:02 - Standardizing founders for company (377): Hopper
+2025-05-19 11:06:02 - Standardizing founders for company (378): OfBusiness
+2025-05-19 11:06:02 - Standardizing founders for company (379): VerSe Innovation
+2025-05-19 11:06:02 - Standardizing founders for company (380): Moon Active
+2025-05-19 11:06:02 - Standardizing founders for company (381): Zepz
+2025-05-19 11:06:02 - Standardizing founders for company (382): WeBank
+2025-05-19 11:06:02 - Standardizing founders for company (383): WeWork China
+2025-05-19 11:06:02 - Standardizing founders for company (384): Royole Corporation
+2025-05-19 11:06:02 - Standardizing founders for company (385): Cockroach Labs
+2025-05-19 11:06:02 - Standardizing founders for company (386): Lenskart
+2025-05-19 11:06:02 - Standardizing founders for company (387): PointClickCare
+2025-05-19 11:06:02 - Standardizing founders for company (388): ShareChat
+2025-05-19 11:06:02 - Standardizing founders for company (389): Coalition
+2025-05-19 11:06:02 - Standardizing founders for company (390): Dream Games
+2025-05-19 11:06:02 - Standardizing founders for company (391): Neuralink
+2025-05-19 11:06:02 - Standardizing founders for company (392): NinjaOne
+2025-05-19 11:06:02 - Standardizing founders for company (393): Zepto
+2025-05-19 11:06:02 - Standardizing founders for company (394): DataDirect Networks
+2025-05-19 11:06:02 - Standardizing founders for company (395): Beast Industries
+2025-05-19 11:06:02 - Standardizing founders for company (396): Whatnot
+2025-05-19 11:06:02 - Standardizing founders for company (397): Sunwoda Electric Vehicle Battery
+2025-05-19 11:06:02 - Standardizing founders for company (398): Mynt
+2025-05-19 11:06:02 - Standardizing founders for company (399): Reify Health
+2025-05-19 11:06:02 - Standardizing founders for company (400): Island
+2025-05-19 11:06:02 - Standardizing founders for company (401): Creditas
+2025-05-19 11:06:02 - Standardizing founders for company (402): Cerebral
+2025-05-19 11:06:02 - Standardizing founders for company (403): Chipone Technology
+2025-05-19 11:06:02 - Standardizing founders for company (404): Qonto
+2025-05-19 11:06:02 - Standardizing founders for company (405): BetterUp
+2025-05-19 11:06:02 - Standardizing founders for company (406): Binance.US
+2025-05-19 11:06:02 - Standardizing founders for company (407): Pleo
+2025-05-19 11:06:02 - Standardizing founders for company (408): Sonar
+2025-05-19 11:06:02 - Standardizing founders for company (409): Glean
+2025-05-19 11:06:02 - Standardizing founders for company (410): Checkr
+2025-05-19 11:06:02 - Standardizing founders for company (411): Color
+2025-05-19 11:06:02 - Standardizing founders for company (412): Lendable
+2025-05-19 11:06:02 - Standardizing founders for company (413): wefox
+2025-05-19 11:06:02 - Standardizing founders for company (414): iFood
+2025-05-19 11:06:02 - Standardizing founders for company (415): Rapyd
+2025-05-19 11:06:02 - Standardizing founders for company (416): OneTrust
+2025-05-19 11:06:02 - Standardizing founders for company (417): Socure
+2025-05-19 11:06:02 - Standardizing founders for company (418): VIPKID
+2025-05-19 11:06:02 - Standardizing founders for company (419): Sierra
+2025-05-19 11:06:02 - Standardizing founders for company (420): Tricentis
+2025-05-19 11:06:02 - Standardizing founders for company (421): Verkada
+2025-05-19 11:06:02 - Standardizing founders for company (422): Manner
+2025-05-19 11:06:02 - Standardizing founders for company (423): Hugging Face
+2025-05-19 11:06:02 - Standardizing founders for company (424): Guild
+2025-05-19 11:06:02 - Standardizing founders for company (425): Alan
+2025-05-19 11:06:02 - Standardizing founders for company (426): Zhiji Auto
+2025-05-19 11:06:02 - Standardizing founders for company (427): Ruipeng Pet Healthcare
+2025-05-19 11:06:02 - Standardizing founders for company (428): Outreach
+2025-05-19 11:06:02 - Standardizing founders for company (429): Lightmatter
+2025-05-19 11:06:02 - Standardizing founders for company (430): Entrata
+2025-05-19 11:06:02 - Standardizing founders for company (431): OutSystems
+2025-05-19 11:06:02 - Standardizing founders for company (432): Sorare
+2025-05-19 11:06:02 - Standardizing founders for company (433): Arctic Wolf
+2025-05-19 11:06:02 - Standardizing founders for company (434): Voyah
+2025-05-19 11:06:02 - Standardizing founders for company (435): Kakao Mobility
+2025-05-19 11:06:02 - Standardizing founders for company (436): G-P/Globalization Partners
+2025-05-19 11:06:02 - Standardizing founders for company (437): ThoughtSpot
+2025-05-19 11:06:02 - Standardizing founders for company (438): dbt Labs
+2025-05-19 11:06:02 - Standardizing founders for company (439): Relativity Space
+2025-05-19 11:06:02 - Standardizing founders for company (440): Armis
+2025-05-19 11:06:02 - Standardizing founders for company (441): Zipline
+2025-05-19 11:06:02 - Standardizing founders for company (442): Hithium Energy Storage
+2025-05-19 11:06:02 - Standardizing founders for company (443): SSENSE
+2025-05-19 11:06:02 - Standardizing founders for company (444): Bitpanda
+2025-05-19 11:06:02 - Standardizing founders for company (445): Dataminr
+2025-05-19 11:06:02 - Standardizing founders for company (446): AngelList
+2025-05-19 11:06:02 - Standardizing founders for company (447): SumUp
+2025-05-19 11:06:02 - Standardizing founders for company (448): Weee!
+2025-05-19 11:06:02 - Standardizing founders for company (449): Wealthsimple
+2025-05-19 11:06:02 - Standardizing founders for company (450): Kraken
+2025-05-19 11:06:02 - Standardizing founders for company (451): Cerebras Systems
+2025-05-19 11:06:02 - Standardizing founders for company (452): Branch
+2025-05-19 11:06:02 - Standardizing founders for company (453): Yuga Labs
+2025-05-19 11:06:02 - Standardizing founders for company (454): Houzz
+2025-05-19 11:06:02 - Standardizing founders for company (455): BrowserStack
+2025-05-19 11:06:02 - Standardizing founders for company (456): Clubhouse
+2025-05-19 11:06:02 - Standardizing founders for company (457): ClickUp
+2025-05-19 11:06:02 - Standardizing founders for company (458): Patreon
+2025-05-19 11:06:02 - Standardizing founders for company (459): MEGVII
+2025-05-19 11:06:02 - Standardizing founders for company (460): Aurora Solar
+2025-05-19 11:06:02 - Standardizing founders for company (461): Zapier
+2025-05-19 11:06:02 - Standardizing founders for company (462): Skims
+2025-05-19 11:06:02 - Standardizing founders for company (463): Cognition
+2025-05-19 11:06:02 - Standardizing founders for company (464): Webflow
+2025-05-19 11:06:02 - Standardizing founders for company (465): Tekion
+2025-05-19 11:06:02 - Standardizing founders for company (466): Saronic
+2025-05-19 11:06:02 - Standardizing founders for company (467): Skydance Media
+2025-05-19 11:06:02 - Standardizing founders for company (468): The Brandtech Group
+2025-05-19 11:06:02 - Standardizing founders for company (469): AlphaSense
+2025-05-19 11:06:02 - Standardizing founders for company (470): Radiology Partners
+2025-05-19 11:06:02 - Standardizing founders for company (471): Inflection AI
+2025-05-19 11:06:02 - Standardizing founders for company (472): Aptos
+2025-05-19 11:06:02 - Standardizing founders for company (473): insightsoftware
+2025-05-19 11:06:02 - Standardizing founders for company (474): Hozon
+2025-05-19 11:06:02 - Standardizing founders for company (475): Meesho
+2025-05-19 11:06:02 - Standardizing founders for company (476): Medlinker
+2025-05-19 11:06:02 - Standardizing founders for company (477): Farmers Business Network
+2025-05-19 11:06:02 - Standardizing founders for company (478): Yunwang Wandian
+2025-05-19 11:06:02 - Standardizing founders for company (479): StockX
+2025-05-19 11:06:02 - Standardizing founders for company (480): OYO
+2025-05-19 11:06:02 - Standardizing founders for company (481): Qontigo
+2025-05-19 11:06:02 - Standardizing founders for company (482): ENOVATE Motors
+2025-05-19 11:06:02 - Standardizing founders for company (483): Dutchie
+2025-05-19 11:06:02 - Standardizing founders for company (484): Articulate
+2025-05-19 11:06:02 - Standardizing founders for company (485): Avride
+2025-05-19 11:06:02 - Standardizing founders for company (486): Harness
+2025-05-19 11:06:02 - Standardizing founders for company (487): Dataiku
+2025-05-19 11:06:02 - Standardizing founders for company (488): Papaya Global
+2025-05-19 11:06:02 - Standardizing founders for company (489): Noom
+2025-05-19 11:06:02 - Standardizing founders for company (490): Goat Group
+2025-05-19 11:06:02 - Standardizing founders for company (491): o9 Solutions
+2025-05-19 11:06:02 - Standardizing founders for company (492): Upstox
+2025-05-19 11:06:02 - Standardizing founders for company (493): Relativity
+2025-05-19 11:06:02 - Standardizing founders for company (494): WHOOP
+2025-05-19 11:06:02 - Standardizing founders for company (495): SpotOn
+2025-05-19 11:06:02 - Standardizing founders for company (496): Learneo
+2025-05-19 11:06:02 - Standardizing founders for company (497): Aptean
+2025-05-19 11:06:02 - Standardizing founders for company (498): Ottobock
+2025-05-19 11:06:02 - Standardizing founders for company (499): Handshake
+2025-05-19 11:06:02 - Standardizing founders for company (500): Rec Room
+2025-05-19 11:06:02 - Standardizing founders for company (501): Chargebee
+2025-05-19 11:06:02 - Standardizing founders for company (502): Highspot
+2025-05-19 11:06:02 - Standardizing founders for company (503): Mirakl
+2025-05-19 11:06:02 - Standardizing founders for company (504): Via
+2025-05-19 11:06:02 - Standardizing founders for company (505): ApplyBoard
+2025-05-19 11:06:02 - Standardizing founders for company (506): Celestia
+2025-05-19 11:06:02 - Standardizing founders for company (507): Chainguard
+2025-05-19 11:06:02 - Standardizing founders for company (508): Vultr
+2025-05-19 11:06:02 - Standardizing founders for company (509): Aledade
+2025-05-19 11:06:02 - Standardizing founders for company (510): Rokt
+2025-05-19 11:06:02 - Standardizing founders for company (511): Mercury
+2025-05-19 11:06:02 - Standardizing founders for company (512): Cribl
+2025-05-19 11:06:02 - Standardizing founders for company (513): GrubMarket
+2025-05-19 11:06:02 - Standardizing founders for company (514): Innovaccer
+2025-05-19 11:06:02 - Standardizing founders for company (515): Unacademy
+2025-05-19 11:06:02 - Standardizing founders for company (516): Baichuan Intelligence
+2025-05-19 11:06:02 - Standardizing founders for company (517): GoStudent
+2025-05-19 11:06:02 - Standardizing founders for company (518): MoonPay
+2025-05-19 11:06:02 - Standardizing founders for company (519): Hive Box
+2025-05-19 11:06:02 - Standardizing founders for company (520): HighRadius
+2025-05-19 11:06:02 - Standardizing founders for company (521): ReliaQuest
+2025-05-19 11:06:02 - Standardizing founders for company (522): Starburst
+2025-05-19 11:06:02 - Standardizing founders for company (523): Youxia Motors
+2025-05-19 11:06:02 - Standardizing founders for company (524): Starling Bank
+2025-05-19 11:06:02 - Standardizing founders for company (525): Zhizi Automobile
+2025-05-19 11:06:02 - Standardizing founders for company (526): Together AI
+2025-05-19 11:06:02 - Standardizing founders for company (527): Uber Freight
+2025-05-19 11:06:02 - Standardizing founders for company (528): Moonshot AI
+2025-05-19 11:06:02 - Standardizing founders for company (529): Spring Health
+2025-05-19 11:06:02 - Standardizing founders for company (530): Komodo Health
+2025-05-19 11:06:02 - Standardizing founders for company (531): Carbon Health
+2025-05-19 11:06:02 - Standardizing founders for company (532): Sinovac Life Sciences
+2025-05-19 11:06:02 - Standardizing founders for company (533): Tabby
+2025-05-19 11:06:02 - Standardizing founders for company (534): ElevenLabs
+2025-05-19 11:06:02 - Standardizing founders for company (535): MicroPort Medbot
+2025-05-19 11:06:02 - Standardizing founders for company (536): Du Xiaoman Financial
+2025-05-19 11:06:02 - Standardizing founders for company (537): Zhuzhou CRRC Times Semiconductor
+2025-05-19 11:06:02 - Standardizing founders for company (538): Bilt Rewards
+2025-05-19 11:06:02 - Standardizing founders for company (539): Vercel
+2025-05-19 11:06:02 - Standardizing founders for company (540): Addepar
+2025-05-19 11:06:02 - Standardizing founders for company (541): Blockdaemon
+2025-05-19 11:06:02 - Standardizing founders for company (542): Qi An Xin
+2025-05-19 11:06:02 - Standardizing founders for company (543): Wanda E-Commerce
+2025-05-19 11:06:02 - Standardizing founders for company (544): Aiven
+2025-05-19 11:06:02 - Standardizing founders for company (545): CARS24
+2025-05-19 11:06:02 - Standardizing founders for company (546): Eruditus Executive Education
+2025-05-19 11:06:02 - Standardizing founders for company (547): Blockstream
+2025-05-19 11:06:02 - Standardizing founders for company (548): Thumbtack
+2025-05-19 11:06:02 - Standardizing founders for company (549): Cedar
+2025-05-19 11:06:02 - Standardizing founders for company (550): Ironclad
+2025-05-19 11:06:02 - Standardizing founders for company (551): Retool
+2025-05-19 11:06:02 - Standardizing founders for company (552): PsiQuantum
+2025-05-19 11:06:02 - Standardizing founders for company (553): Beta Technologies
+2025-05-19 11:06:02 - Standardizing founders for company (554): Nuvemshop
+2025-05-19 11:06:02 - Standardizing founders for company (555): Zetwerk
+2025-05-19 11:06:02 - Standardizing founders for company (556): Amber Group
+2025-05-19 11:06:02 - Standardizing founders for company (557): Flutterwave
+2025-05-19 11:06:02 - Standardizing founders for company (558): World
+2025-05-19 11:06:02 - Standardizing founders for company (559): Tinder
+2025-05-19 11:06:02 - Standardizing founders for company (560): Cross River Bank
+2025-05-19 11:06:02 - Standardizing founders for company (561): Bird
+2025-05-19 11:06:02 - Standardizing founders for company (562): Anchorage Digital
+2025-05-19 11:06:02 - Standardizing founders for company (563): LaunchDarkly
+2025-05-19 11:06:02 - Standardizing founders for company (564): Automattic
+2025-05-19 11:06:02 - Standardizing founders for company (565): Contentful
+2025-05-19 11:06:02 - Standardizing founders for company (566): Calendly
+2025-05-19 11:06:02 - Standardizing founders for company (567): Podium
+2025-05-19 11:06:02 - Standardizing founders for company (568): Lucid Software
+2025-05-19 11:06:02 - Standardizing founders for company (569): Wildlife Studios
+2025-05-19 11:06:02 - Standardizing founders for company (570): Inxeption
+2025-05-19 11:06:02 - Standardizing founders for company (571): FlixBus
+2025-05-19 11:06:02 - Standardizing founders for company (572): Paytm Mall
+2025-05-19 11:06:02 - Standardizing founders for company (573): Age of Learning
+2025-05-19 11:06:02 - Standardizing founders for company (574): ofo
+2025-05-19 11:06:02 - Standardizing founders for company (575): TradingView
+2025-05-19 11:06:02 - Standardizing founders for company (576): Seismic
+2025-05-19 11:06:02 - Standardizing founders for company (577): Groww
+2025-05-19 11:06:02 - Standardizing founders for company (578): ActiveCampaign
+2025-05-19 11:06:02 - Standardizing founders for company (579): Didi Freight
+2025-05-19 11:06:02 - Standardizing founders for company (580): VANCL
+2025-05-19 11:06:02 - Standardizing founders for company (581): Forter
+2025-05-19 11:06:02 - Standardizing founders for company (582): Miaopai
+2025-05-19 11:06:02 - Standardizing founders for company (583): Outschool
+2025-05-19 11:06:02 - Standardizing founders for company (584): Lattice
+2025-05-19 11:06:02 - Standardizing founders for company (585): Cato Networks
+2025-05-19 11:06:02 - Standardizing founders for company (586): KK Group
+2025-05-19 11:06:02 - Standardizing founders for company (587): Grab Financial Group
+2025-05-19 11:06:03 - Standardizing founders for company (588): Alibaba Music
+2025-05-19 11:06:03 - Standardizing founders for company (589): PingCAP
+2025-05-19 11:06:03 - Standardizing founders for company (590): Harvey
+2025-05-19 11:06:03 - Standardizing founders for company (591): Poolside
+2025-05-19 11:06:03 - Standardizing founders for company (592): Phantom
+2025-05-19 11:06:03 - Standardizing founders for company (593): LayerZero Labs
+2025-05-19 11:06:03 - Standardizing founders for company (594): Sentry
+2025-05-19 11:06:03 - Standardizing founders for company (595): Group14 Technologies
+2025-05-19 11:06:03 - Standardizing founders for company (596): iCIMS
+2025-05-19 11:06:03 - Standardizing founders for company (597): iFIT
+2025-05-19 11:06:03 - Standardizing founders for company (598): Remote
+2025-05-19 11:06:03 - Standardizing founders for company (599): Runway
+2025-05-19 11:06:03 - Standardizing founders for company (600): Cyera
+2025-05-19 11:06:03 - Standardizing founders for company (601): Sword Health
+2025-05-19 11:06:03 - Standardizing founders for company (602): Nord Security
+2025-05-19 11:06:03 - Standardizing founders for company (603): Clio
+2025-05-19 11:06:03 - Standardizing founders for company (604): Improbable
+2025-05-19 11:06:03 - Standardizing founders for company (605): Lionheart Studio
+2025-05-19 11:06:03 - Standardizing founders for company (606): CMR Surgical
+2025-05-19 11:06:03 - Standardizing founders for company (607): ABB E-Mobility
+2025-05-19 11:06:03 - Standardizing founders for company (608): Yipin Fresh
+2025-05-19 11:06:03 - Standardizing founders for company (609): Souche
+2025-05-19 11:06:03 - Standardizing founders for company (610): LY.com
+2025-05-19 11:06:03 - Standardizing founders for company (611): KoBold Metals
+2025-05-19 11:06:03 - Standardizing founders for company (612): DuerOS
+2025-05-19 11:06:03 - Standardizing founders for company (613): Terminus Technologies
+2025-05-19 11:06:03 - Standardizing founders for company (614): Workrise
+2025-05-19 11:06:03 - Standardizing founders for company (615): Loft
+2025-05-19 11:06:03 - Standardizing founders for company (616): Eswin Materials
+2025-05-19 11:06:03 - Standardizing founders for company (617): China UnionPay Merchant Services
+2025-05-19 11:06:03 - Standardizing founders for company (618): DriveWealth
+2025-05-19 11:06:03 - Standardizing founders for company (619): BharatPe
+2025-05-19 11:06:03 - Standardizing founders for company (620): Motive
+2025-05-19 11:06:03 - Standardizing founders for company (621): Transmit Security
+2025-05-19 11:06:03 - Standardizing founders for company (622): Sungrow New Energy
+2025-05-19 11:06:03 - Standardizing founders for company (623): Zhipu AI
+2025-05-19 11:06:03 - Standardizing founders for company (624): Crusoe Energy Systems
+2025-05-19 11:06:03 - Standardizing founders for company (625): Physics Wallah
+2025-05-19 11:06:03 - Standardizing founders for company (626): One
+2025-05-19 11:06:03 - Standardizing founders for company (627): Icertis
+2025-05-19 11:06:03 - Standardizing founders for company (628): OakNorth
+2025-05-19 11:06:03 - Standardizing founders for company (629): Infra.Market
+2025-05-19 11:06:03 - Standardizing founders for company (630): Groq
+2025-05-19 11:06:03 - Standardizing founders for company (631): Rakuten Securities
+2025-05-19 11:06:03 - Standardizing founders for company (632): MUSINSA
+2025-05-19 11:06:03 - Standardizing founders for company (633): Traveloka
+2025-05-19 11:06:03 - Standardizing founders for company (634): Illumio
+2025-05-19 11:06:03 - Standardizing founders for company (635): MasterClass
+2025-05-19 11:06:03 - Standardizing founders for company (636): Ualá
+2025-05-19 11:06:03 - Standardizing founders for company (637): Abridge
+2025-05-19 11:06:03 - Standardizing founders for company (638): Avatr
+2025-05-19 11:06:03 - Standardizing founders for company (639): Ethos Life
+2025-05-19 11:06:03 - Standardizing founders for company (640): Nextiva
+2025-05-19 11:06:03 - Standardizing founders for company (641): Thought Machine
+2025-05-19 11:06:03 - Standardizing founders for company (642): HiBob
+2025-05-19 11:06:03 - Standardizing founders for company (643): TravelPerk
+2025-05-19 11:06:03 - Standardizing founders for company (644): Tenstorrent
+2025-05-19 11:06:03 - Standardizing founders for company (645): Tridge
+2025-05-19 11:06:03 - Standardizing founders for company (646): Figure
+2025-05-19 11:06:03 - Standardizing founders for company (647): Karrot Market
+2025-05-19 11:06:03 - Standardizing founders for company (648): Backbase
+2025-05-19 11:06:03 - Standardizing founders for company (649): Sourcegraph
+2025-05-19 11:06:03 - Standardizing founders for company (650): Airtel Mobile Commerce BV
+2025-05-19 11:06:03 - Standardizing founders for company (651): JumpCloud
+2025-05-19 11:06:03 - Standardizing founders for company (652): project44
+2025-05-19 11:06:03 - Standardizing founders for company (653): Axonius
+2025-05-19 11:06:03 - Standardizing founders for company (654): Clari
+2025-05-19 11:06:03 - Standardizing founders for company (655): Plume Design
+2025-05-19 11:06:03 - Standardizing founders for company (656): Pendo
+2025-05-19 11:06:03 - Standardizing founders for company (657): Suning Sports
+2025-05-19 11:06:03 - Standardizing founders for company (658): unico IDtech
+2025-05-19 11:06:03 - Standardizing founders for company (659): Moglix
+2025-05-19 11:06:03 - Standardizing founders for company (660): Quantexa
+2025-05-19 11:06:03 - Standardizing founders for company (661): ManoMano
+2025-05-19 11:06:03 - Standardizing founders for company (662): Bending Spoons
+2025-05-19 11:06:03 - Standardizing founders for company (663): Fujian Deer Technology
+2025-05-19 11:06:03 - Standardizing founders for company (664): Jusda
+2025-05-19 11:06:03 - Standardizing founders for company (665): Chainalysis
+2025-05-19 11:06:03 - Standardizing founders for company (666): Side
+2025-05-19 11:06:03 - Standardizing founders for company (667): Somatus
+2025-05-19 11:06:03 - Standardizing founders for company (668): SiFive
+2025-05-19 11:06:03 - Standardizing founders for company (669): Games24x7
+2025-05-19 11:06:03 - Standardizing founders for company (670): Uniphore
+2025-05-19 11:06:03 - Standardizing founders for company (671): Sysdig
+2025-05-19 11:06:03 - Standardizing founders for company (672): Fetch
+2025-05-19 11:06:03 - Standardizing founders for company (673): Varo Bank
+2025-05-19 11:06:03 - Standardizing founders for company (674): Syniverse
+2025-05-19 11:06:03 - Standardizing founders for company (675): Cambricon Technologies
+2025-05-19 11:06:03 - Standardizing founders for company (676): VistaJet
+2025-05-19 11:06:03 - Standardizing founders for company (677): BYTON
+2025-05-19 11:06:03 - Standardizing founders for company (678): Flow
+2025-05-19 11:06:03 - Standardizing founders for company (679): Mavenir
+2025-05-19 11:06:03 - Standardizing founders for company (680): Jetti Resources
+2025-05-19 11:06:03 - Standardizing founders for company (681): Immutable Systems
+2025-05-19 11:06:03 - Standardizing founders for company (682): Wormhole
+2025-05-19 11:06:03 - Standardizing founders for company (683): Lambda
+2025-05-19 11:06:03 - Standardizing founders for company (684): MiniMax
+2025-05-19 11:06:03 - Standardizing founders for company (685): eToro
+2025-05-19 11:06:03 - Standardizing founders for company (686): StackAdapt
+2025-05-19 11:06:03 - Standardizing founders for company (687): Celestial AI
+2025-05-19 11:06:03 - Standardizing founders for company (688): Peregrine Technologies
+2025-05-19 11:06:03 - Standardizing founders for company (689): DriveNets
+2025-05-19 11:06:03 - Standardizing founders for company (690): Autodoc
+2025-05-19 11:06:03 - Standardizing founders for company (691): Vanta
+2025-05-19 11:06:03 - Standardizing founders for company (692): Electrify America
+2025-05-19 11:06:03 - Standardizing founders for company (693): DMALL
+2025-05-19 11:06:03 - Standardizing founders for company (694): Enpal
+2025-05-19 11:06:03 - Standardizing founders for company (695): Star Charge
+2025-05-19 11:06:03 - Standardizing founders for company (696): ABL Space Systems
+2025-05-19 11:06:03 - Standardizing founders for company (697): HoneyBook
+2025-05-19 11:06:03 - Standardizing founders for company (698): Physical Intelligence
+2025-05-19 11:06:03 - Standardizing founders for company (699): LogicMonitor
+2025-05-19 11:06:03 - Standardizing founders for company (700): Carbon
+2025-05-19 11:06:03 - Standardizing founders for company (701): Paxos
+2025-05-19 11:06:03 - Standardizing founders for company (702): BitSight
+2025-05-19 11:06:03 - Standardizing founders for company (703): Exabeam
+2025-05-19 11:06:03 - Standardizing founders for company (704): Wellhub
+2025-05-19 11:06:03 - Standardizing founders for company (705): Accelerant
+2025-05-19 11:06:03 - Standardizing founders for company (706): Trumid
+2025-05-19 11:06:03 - Standardizing founders for company (707): BrewDog
+2025-05-19 11:06:03 - Standardizing founders for company (708): Yitu Technology
+2025-05-19 11:06:03 - Standardizing founders for company (709): Go1
+2025-05-19 11:06:03 - Standardizing founders for company (710): Beijing Weilan New Energy Technology
+2025-05-19 11:06:03 - Standardizing founders for company (711): BGL Group
+2025-05-19 11:06:03 - Standardizing founders for company (712): Latitude Financial Services
+2025-05-19 11:06:03 - Standardizing founders for company (713): Uptake Technologies
+2025-05-19 11:06:03 - Standardizing founders for company (714): Coda
+2025-05-19 11:06:03 - Standardizing founders for company (715): Greenlight
+2025-05-19 11:06:03 - Standardizing founders for company (716): Headway
+2025-05-19 11:06:03 - Standardizing founders for company (717): Mobile Premier League
+2025-05-19 11:06:03 - Standardizing founders for company (718): Liquid AI
+2025-05-19 11:06:03 - Standardizing founders for company (719): Story Protocol
+2025-05-19 11:06:03 - Standardizing founders for company (720): Algolia
+2025-05-19 11:06:03 - Standardizing founders for company (721): 1inch Labs
+2025-05-19 11:06:03 - Standardizing founders for company (722): UpGrad
+2025-05-19 11:06:03 - Standardizing founders for company (723): Qianxun Spatial Intelligence
+2025-05-19 11:06:03 - Standardizing founders for company (724): Pattern
+2025-05-19 11:06:03 - Standardizing founders for company (725): Huimin
+2025-05-19 11:06:03 - Standardizing founders for company (726): Current
+2025-05-19 11:06:03 - Standardizing founders for company (727): Bitso
+2025-05-19 11:06:03 - Standardizing founders for company (728): Modern Treasury
+2025-05-19 11:06:03 - Standardizing founders for company (729): G7
+2025-05-19 11:06:03 - Standardizing founders for company (730): Bloomreach
+2025-05-19 11:06:03 - Standardizing founders for company (731): Dialpad
+2025-05-19 11:06:03 - Standardizing founders for company (732): NuCom Group
+2025-05-19 11:06:03 - Standardizing founders for company (733): Transcarent
+2025-05-19 11:06:03 - Standardizing founders for company (734): Skydio
+2025-05-19 11:06:03 - Standardizing founders for company (735): Kavak
+2025-05-19 11:06:03 - Standardizing founders for company (736): Turing
+2025-05-19 11:06:03 - Standardizing founders for company (737): Newfront
+2025-05-19 11:06:03 - Standardizing founders for company (738): Zip
+2025-05-19 11:06:03 - Standardizing founders for company (739): Pennylane
+2025-05-19 11:06:03 - Standardizing founders for company (740): Market Kurly
+2025-05-19 11:06:03 - Standardizing founders for company (741): Planet Payment
+2025-05-19 11:06:03 - Standardizing founders for company (742): Huaqin Communication Technology
+2025-05-19 11:06:03 - Standardizing founders for company (743): Inari
+2025-05-19 11:06:03 - Standardizing founders for company (744): Chint Anneng Digital Energy
+2025-05-19 11:06:03 - Standardizing founders for company (745): JD Industry
+2025-05-19 11:06:03 - Standardizing founders for company (746): CloudWalk
+2025-05-19 11:06:03 - Standardizing founders for company (747): CoinDCX
+2025-05-19 11:06:03 - Standardizing founders for company (748): Rimac Group
+2025-05-19 11:06:03 - Standardizing founders for company (749): ABLY Corporation
+2025-05-19 11:06:03 - Standardizing founders for company (750): Synthesia
+2025-05-19 11:06:03 - Standardizing founders for company (751): bolttech
+2025-05-19 11:06:03 - Standardizing founders for company (752): 2TM
+2025-05-19 11:06:03 - Standardizing founders for company (753): Docker
+2025-05-19 11:06:03 - Standardizing founders for company (754): Jeeves Inc.
+2025-05-19 11:06:03 - Standardizing founders for company (755): Forto
+2025-05-19 11:06:03 - Standardizing founders for company (756): Recharge
+2025-05-19 11:06:03 - Standardizing founders for company (757): Medable
+2025-05-19 11:06:03 - Standardizing founders for company (758): GoCardless
+2025-05-19 11:06:03 - Standardizing founders for company (759): Urban Company
+2025-05-19 11:06:03 - Standardizing founders for company (760): Eightfold AI
+2025-05-19 11:06:03 - Standardizing founders for company (761): Engine
+2025-05-19 11:06:03 - Standardizing founders for company (762): Taobao Movie
+2025-05-19 11:06:03 - Standardizing founders for company (763): Kong
+2025-05-19 11:06:03 - Standardizing founders for company (764): Biren Technology
+2025-05-19 11:06:03 - Standardizing founders for company (765): Runpeng Semiconductor
+2025-05-19 11:06:03 - Standardizing founders for company (766): PayFit
+2025-05-19 11:06:03 - Standardizing founders for company (767): Tianbing Technology
+2025-05-19 11:06:03 - Standardizing founders for company (768): Voodoo
+2025-05-19 11:06:03 - Standardizing founders for company (769): ZigBang
+2025-05-19 11:06:03 - Standardizing founders for company (770): Flash Express
+2025-05-19 11:06:03 - Standardizing founders for company (771): Kunlun Core
+2025-05-19 11:06:03 - Standardizing founders for company (772): Kry
+2025-05-19 11:06:03 - Standardizing founders for company (773): Zilch
+2025-05-19 11:06:03 - Standardizing founders for company (774): Kunlun
+2025-05-19 11:06:03 - Standardizing founders for company (775): Salsify
+2025-05-19 11:06:03 - Standardizing founders for company (776): Babel Finance
+2025-05-19 11:06:03 - Standardizing founders for company (777): ROX Motor
+2025-05-19 11:06:03 - Standardizing founders for company (778): Clear Street
+2025-05-19 11:06:03 - Standardizing founders for company (779): Copper
+2025-05-19 11:06:03 - Standardizing founders for company (780): 21.co
+2025-05-19 11:06:03 - Standardizing founders for company (781): Mysten Labs
+2025-05-19 11:06:03 - Standardizing founders for company (782): DeepL
+2025-05-19 11:06:03 - Standardizing founders for company (783): ShiftKey
+2025-05-19 11:06:03 - Standardizing founders for company (784): Xpansiv
+2025-05-19 11:06:03 - Standardizing founders for company (785): Polygon
+2025-05-19 11:06:03 - Standardizing founders for company (786): Pipe
+2025-05-19 11:06:03 - Standardizing founders for company (787): Mural
+2025-05-19 11:06:03 - Standardizing founders for company (788): CertiK
+2025-05-19 11:06:03 - Standardizing founders for company (789): Pantheon
+2025-05-19 11:06:03 - Standardizing founders for company (790): Hive
+2025-05-19 11:06:03 - Standardizing founders for company (791): Redis
+2025-05-19 11:06:03 - Standardizing founders for company (792): Iterable
+2025-05-19 11:06:03 - Standardizing founders for company (793): Everlaw
+2025-05-19 11:06:03 - Standardizing founders for company (794): Unqork
+2025-05-19 11:06:03 - Standardizing founders for company (795): Druva
+2025-05-19 11:06:03 - Standardizing founders for company (796): Aviatrix
+2025-05-19 11:06:03 - Standardizing founders for company (797): Clip
+2025-05-19 11:06:03 - Standardizing founders for company (798): Kajabi
+2025-05-19 11:06:03 - Standardizing founders for company (799): Cloudinary
+2025-05-19 11:06:03 - Standardizing founders for company (800): Netlify
+2025-05-19 11:06:03 - Standardizing founders for company (801): OPay
+2025-05-19 11:06:03 - Standardizing founders for company (802): Misfits Market
+2025-05-19 11:06:03 - Standardizing founders for company (803): Claroty
+2025-05-19 11:06:03 - Standardizing founders for company (804): Apeel Sciences
+2025-05-19 11:06:03 - Standardizing founders for company (805): Formlabs
+2025-05-19 11:06:03 - Standardizing founders for company (806): LTK
+2025-05-19 11:06:03 - Standardizing founders for company (807): BlaBlaCar
+2025-05-19 11:06:03 - Standardizing founders for company (808): Pivot Bio
+2025-05-19 11:06:03 - Standardizing founders for company (809): Viva Wallet
+2025-05-19 11:06:03 - Standardizing founders for company (810): Advance Intelligence Group
+2025-05-19 11:06:03 - Standardizing founders for company (811): XINGYUN GROUP
+2025-05-19 11:06:03 - Standardizing founders for company (812): Mafengwo
+2025-05-19 11:06:03 - Standardizing founders for company (813): Magic Leap
+2025-05-19 11:06:03 - Standardizing founders for company (814): OCSiAl Group
+2025-05-19 11:06:03 - Standardizing founders for company (815): Aleph Holding
+2025-05-19 11:06:03 - Standardizing founders for company (816): ManyPets
+2025-05-19 11:06:03 - Standardizing founders for company (817): Dremio
+2025-05-19 11:06:03 - Standardizing founders for company (818): 4Paradigm
+2025-05-19 11:06:03 - Standardizing founders for company (819): InMobi
+2025-05-19 11:06:03 - Standardizing founders for company (820): ClickHouse
+2025-05-19 11:06:03 - Standardizing founders for company (821): AppsFlyer
+2025-05-19 11:06:03 - Standardizing founders for company (822): Saks.com
+2025-05-19 11:06:03 - Standardizing founders for company (823): Calm
+2025-05-19 11:06:03 - Standardizing founders for company (824): Momo
+2025-05-19 11:06:03 - Standardizing founders for company (825): Guoquan Shihui
+2025-05-19 11:06:03 - Standardizing founders for company (826): To8to
+2025-05-19 11:06:03 - Standardizing founders for company (827): Tradeshift
+2025-05-19 11:06:03 - Standardizing founders for company (828): Keep
+2025-05-19 11:06:03 - Standardizing founders for company (829): Virta Health
+2025-05-19 11:06:03 - Standardizing founders for company (830): Naixuecha
+2025-05-19 11:06:03 - Standardizing founders for company (831): Firstp2p
+2025-05-19 11:06:03 - Standardizing founders for company (832): ISN Software Corporation
+2025-05-19 11:06:03 - Standardizing founders for company (833): Trendy International Group
+2025-05-19 11:06:03 - Standardizing founders for company (834): Acorns
+2025-05-19 11:06:03 - Standardizing founders for company (835): Solugen
+2025-05-19 11:06:03 - Standardizing founders for company (836): Zeta
+2025-05-19 11:06:03 - Standardizing founders for company (837): Moloco
+2025-05-19 11:06:03 - Standardizing founders for company (838): Persona
+2025-05-19 11:06:03 - Standardizing founders for company (839): Devo
+2025-05-19 11:06:03 - Standardizing founders for company (840): Marshmallow
+2025-05-19 11:06:03 - Standardizing founders for company (841): Neo4j
+2025-05-19 11:06:03 - Standardizing founders for company (842): Trax
+2025-05-19 11:06:03 - Standardizing founders for company (843): SmartNews
+2025-05-19 11:06:03 - Standardizing founders for company (844): Locus Robotics
+2025-05-19 11:06:03 - Standardizing founders for company (845): Verbit
+2025-05-19 11:06:03 - Standardizing founders for company (846): Loggi
+2025-05-19 11:06:03 - Standardizing founders for company (847): Farfetch China
+2025-05-19 11:06:03 - Standardizing founders for company (848): The Bot Company
+2025-05-19 11:06:03 - Standardizing founders for company (849): Mercor
+2025-05-19 11:06:03 - Standardizing founders for company (850): BlinkRx
+2025-05-19 11:06:03 - Standardizing founders for company (851): Supabase
+2025-05-19 11:06:03 - Standardizing founders for company (852): Chaos
+2025-05-19 11:06:03 - Standardizing founders for company (853): Melio
+2025-05-19 11:06:03 - Standardizing founders for company (854): Sila
+2025-05-19 11:06:03 - Standardizing founders for company (855): Insider
+2025-05-19 11:06:03 - Standardizing founders for company (856): Firefly Aerospace
+2025-05-19 11:06:03 - Standardizing founders for company (857): Axiom Space
+2025-05-19 11:06:03 - Standardizing founders for company (858): Drata
+2025-05-19 11:06:03 - Standardizing founders for company (859): GetYourGuide
+2025-05-19 11:06:03 - Standardizing founders for company (860): Lessen
+2025-05-19 11:06:03 - Standardizing founders for company (861): Geek+
+2025-05-19 11:06:03 - Standardizing founders for company (862): ICON
+2025-05-19 11:06:03 - Standardizing founders for company (863): Preferred Networks
+2025-05-19 11:06:03 - Standardizing founders for company (864): Lunar
+2025-05-19 11:06:03 - Standardizing founders for company (865): Clearco
+2025-05-19 11:06:03 - Standardizing founders for company (866): TIER Mobility
+2025-05-19 11:06:03 - Standardizing founders for company (867): Exotec
+2025-05-19 11:06:03 - Standardizing founders for company (868): Ankorstore
+2025-05-19 11:06:03 - Standardizing founders for company (869): Avant
+2025-05-19 11:06:03 - Standardizing founders for company (870): Sky Mavis
+2025-05-19 11:06:03 - Standardizing founders for company (871): JOLED
+2025-05-19 11:06:03 - Standardizing founders for company (872): Vital Thin Film Materials
+2025-05-19 11:06:03 - Standardizing founders for company (873): Roofstock
+2025-05-19 11:06:03 - Standardizing founders for company (874): YinLong Group
+2025-05-19 11:06:03 - Standardizing founders for company (875): SemiDrive
+2025-05-19 11:06:03 - Standardizing founders for company (876): Tianyu Semiconductor
+2025-05-19 11:06:03 - Standardizing founders for company (877): commercetools
+2025-05-19 11:06:03 - Standardizing founders for company (878): ConcertAI
+2025-05-19 11:06:03 - Standardizing founders for company (879): CoinSwitch
+2025-05-19 11:06:03 - Standardizing founders for company (880): MX Technologies
+2025-05-19 11:06:03 - Standardizing founders for company (881): Altruist
+2025-05-19 11:06:03 - Standardizing founders for company (882): Material Bank
+2025-05-19 11:06:03 - Standardizing founders for company (883): JIANGXIAOBAI
+2025-05-19 11:06:03 - Standardizing founders for company (884): Writer
+2025-05-19 11:06:03 - Standardizing founders for company (885): DFINITY
+2025-05-19 11:06:03 - Standardizing founders for company (886): Zhenkunxing
+2025-05-19 11:06:03 - Standardizing founders for company (887): Volocopter
+2025-05-19 11:06:03 - Standardizing founders for company (888): SFCC
+2025-05-19 11:06:03 - Standardizing founders for company (889): MegazoneCloud
+2025-05-19 11:06:03 - Standardizing founders for company (890): Ninja Van
+2025-05-19 11:06:03 - Standardizing founders for company (891): Olipop
+2025-05-19 11:06:03 - Standardizing founders for company (892): bunq
+2025-05-19 11:06:03 - Standardizing founders for company (893): DailyPay
+2025-05-19 11:06:03 - Standardizing founders for company (894): Sineva
+2025-05-19 11:06:03 - Standardizing founders for company (895): Kindbody
+2025-05-19 11:06:03 - Standardizing founders for company (896): Fever
+2025-05-19 11:06:03 - Standardizing founders for company (897): Scroll.io
+2025-05-19 11:06:03 - Standardizing founders for company (898): Diamond Foundry
+2025-05-19 11:06:03 - Standardizing founders for company (899): SJ Semi
+2025-05-19 11:06:03 - Standardizing founders for company (900): Udaan
+2025-05-19 11:06:03 - Standardizing founders for company (901): Neko Health
+2025-05-19 11:06:03 - Standardizing founders for company (902): Orca Security
+2025-05-19 11:06:03 - Standardizing founders for company (903): Watershed
+2025-05-19 11:06:03 - Standardizing founders for company (904): Lightricks
+2025-05-19 11:06:03 - Standardizing founders for company (905): Zocdoc
+2025-05-19 11:06:03 - Standardizing founders for company (906): FullStory
+2025-05-19 11:06:03 - Standardizing founders for company (907): Opentrons
+2025-05-19 11:06:03 - Standardizing founders for company (908): Quest Global
+2025-05-19 11:06:03 - Standardizing founders for company (909): Glossier
+2025-05-19 11:06:03 - Standardizing founders for company (910): Landa Digital Printing
+2025-05-19 11:06:03 - Standardizing founders for company (911): Meril Life
+2025-05-19 11:06:03 - Standardizing founders for company (912): Gousto
+2025-05-19 11:06:03 - Standardizing founders for company (913): Spinny
+2025-05-19 11:06:03 - Standardizing founders for company (914): Kaseya
+2025-05-19 11:06:03 - Standardizing founders for company (915): Trulioo
+2025-05-19 11:06:03 - Standardizing founders for company (916): Akulaku Group
+2025-05-19 11:06:03 - Standardizing founders for company (917): BitGo
+2025-05-19 11:06:03 - Standardizing founders for company (918): NantOmics
+2025-05-19 11:06:03 - Standardizing founders for company (919): ID.me
+2025-05-19 11:06:03 - Standardizing founders for company (920): Productboard
+2025-05-19 11:06:03 - Standardizing founders for company (921): Temporal Technologies
+2025-05-19 11:06:03 - Standardizing founders for company (922): Maropost
+2025-05-19 11:06:03 - Standardizing founders for company (923): Multiverse
+2025-05-19 11:06:03 - Standardizing founders for company (924): Front
+2025-05-19 11:06:03 - Standardizing founders for company (925): Redesign Health
+2025-05-19 11:06:03 - Standardizing founders for company (926): Micro Connect
+2025-05-19 11:06:03 - Standardizing founders for company (927): Glance
+2025-05-19 11:06:03 - Standardizing founders for company (928): CircleCI
+2025-05-19 11:06:03 - Standardizing founders for company (929): Pax8
+2025-05-19 11:06:03 - Standardizing founders for company (930): H2O.ai
+2025-05-19 11:06:03 - Standardizing founders for company (931): ZenBusiness
+2025-05-19 11:06:03 - Standardizing founders for company (932): Spotter
+2025-05-19 11:06:03 - Standardizing founders for company (933): DispatchHealth
+2025-05-19 11:06:03 - Standardizing founders for company (934): Harry's
+2025-05-19 11:06:03 - Standardizing founders for company (935): Reltio
+2025-05-19 11:06:03 - Standardizing founders for company (936): PAX Labs
+2025-05-19 11:06:03 - Standardizing founders for company (937): Carsome
+2025-05-19 11:06:03 - Standardizing founders for company (938): Dragos
+2025-05-19 11:06:03 - Standardizing founders for company (939): HomeLight
+2025-05-19 11:06:03 - Standardizing founders for company (940): Wave Mobile Money
+2025-05-19 11:06:03 - Standardizing founders for company (941): Alation
+2025-05-19 11:06:03 - Standardizing founders for company (942): VTS
+2025-05-19 11:06:03 - Standardizing founders for company (943): Maven Clinic
+2025-05-19 11:06:03 - Standardizing founders for company (944): Razor Group
+2025-05-19 11:06:03 - Standardizing founders for company (945): Vestiaire Collective
+2025-05-19 11:06:03 - Standardizing founders for company (946): Tessera Therapeutics
+2025-05-19 11:06:03 - Standardizing founders for company (947): Enflame
+2025-05-19 11:06:03 - Standardizing founders for company (948): DealShare
+2025-05-19 11:06:03 - Standardizing founders for company (949): SafetyCulture
+2025-05-19 11:06:03 - Standardizing founders for company (950): Kredivo Group
+2025-05-19 11:06:03 - Standardizing founders for company (951): Incredible Health
+2025-05-19 11:06:03 - Standardizing founders for company (952): Optimism
+2025-05-19 11:06:03 - Standardizing founders for company (953): Dexterity
+2025-05-19 11:06:03 - Standardizing founders for company (954): Hippocratic AI
+2025-05-19 11:06:03 - Standardizing founders for company (955): Zhubajie
+2025-05-19 11:06:03 - Standardizing founders for company (956): Capitolis
+2025-05-19 11:06:03 - Standardizing founders for company (957): Wayflyer
+2025-05-19 11:06:03 - Standardizing founders for company (958): Extend
+2025-05-19 11:06:03 - Standardizing founders for company (959): Unite Us
+2025-05-19 11:06:03 - Standardizing founders for company (960): Cresta
+2025-05-19 11:06:03 - Standardizing founders for company (961): Afiniti
+2025-05-19 11:06:03 - Standardizing founders for company (962): ASAPP
+2025-05-19 11:06:03 - Standardizing founders for company (963): Toss Bank
+2025-05-19 11:06:03 - Standardizing founders for company (964): ezCater
+2025-05-19 11:06:03 - Standardizing founders for company (965): Bianlifeng
+2025-05-19 11:06:03 - Standardizing founders for company (966): Pathos
+2025-05-19 11:06:03 - Standardizing founders for company (967): MediTrust Health
+2025-05-19 11:06:03 - Standardizing founders for company (968): Aura
+2025-05-19 11:06:03 - Standardizing founders for company (969): DataStax
+2025-05-19 11:06:03 - Standardizing founders for company (970): Monte Carlo
+2025-05-19 11:06:03 - Standardizing founders for company (971): Magic Eden
+2025-05-19 11:06:03 - Standardizing founders for company (972): Pave
+2025-05-19 11:06:03 - Standardizing founders for company (973): Molbio Diagnostics
+2025-05-19 11:06:03 - Standardizing founders for company (974): Apollo.io
+2025-05-19 11:06:03 - Standardizing founders for company (975): WEKA
+2025-05-19 11:06:03 - Standardizing founders for company (976): Cart.com
+2025-05-19 11:06:03 - Standardizing founders for company (977): FloQast
+2025-05-19 11:06:03 - Standardizing founders for company (978): Chronosphere
+2025-05-19 11:06:03 - Standardizing founders for company (979): AIWAYS
+2025-05-19 11:06:03 - Standardizing founders for company (980): Ascend Elements
+2025-05-19 11:06:03 - Standardizing founders for company (981): GalaxySpace
+2025-05-19 11:06:03 - Standardizing founders for company (982): Fresh Life Style Supply Chain Management
+2025-05-19 11:06:03 - Standardizing founders for company (983): Nexii
+2025-05-19 11:06:03 - Standardizing founders for company (984): Caocao Chuxing
+2025-05-19 11:06:03 - Standardizing founders for company (985): SmartHR
+2025-05-19 11:06:03 - Standardizing founders for company (986): NMI
+2025-05-19 11:06:03 - Standardizing founders for company (987): Alloy
+2025-05-19 11:06:03 - Standardizing founders for company (988): Kitopi
+2025-05-19 11:06:03 - Standardizing founders for company (989): ESWIN Computing
+2025-05-19 11:06:03 - Standardizing founders for company (990): Wellong Etown
+2025-05-19 11:06:03 - Standardizing founders for company (991): Matrixport
+2025-05-19 11:06:03 - Standardizing founders for company (992): Wenheyou
+2025-05-19 11:06:03 - Standardizing founders for company (993): Qinghai Lihao
+2025-05-19 11:06:03 - Standardizing founders for company (994): StoreDot
+2025-05-19 11:06:03 - Standardizing founders for company (995): Main Street Health
+2025-05-19 11:06:03 - Standardizing founders for company (996): ElasticRun
+2025-05-19 11:06:03 - Standardizing founders for company (997): Andela
+2025-05-19 11:06:03 - Standardizing founders for company (998): Airbyte
+2025-05-19 11:06:03 - Standardizing founders for company (999): CoinList
+2025-05-19 11:06:03 - Standardizing founders for company (1000): Veho
+2025-05-19 11:06:03 - Standardizing founders for company (1001): Veriff
+2025-05-19 11:06:03 - Standardizing founders for company (1002): Matillion
+2025-05-19 11:06:03 - Standardizing founders for company (1003): Boba Network
+2025-05-19 11:06:03 - Standardizing founders for company (1004): Olist
+2025-05-19 11:06:03 - Standardizing founders for company (1005): Perfect Day
+2025-05-19 11:06:03 - Standardizing founders for company (1006): Cognite
+2025-05-19 11:06:03 - Standardizing founders for company (1007): Collective Health
+2025-05-19 11:06:03 - Standardizing founders for company (1008): MindMaze
+2025-05-19 11:06:03 - Standardizing founders for company (1009): Lusha
+2025-05-19 11:06:03 - Standardizing founders for company (1010): Zenoti
+2025-05-19 11:06:03 - Standardizing founders for company (1011): Built Technologies
+2025-05-19 11:06:03 - Standardizing founders for company (1012): Paradox
+2025-05-19 11:06:03 - Standardizing founders for company (1013): SmartRecruiters
+2025-05-19 11:06:03 - Standardizing founders for company (1014): Apollo GraphQL
+2025-05-19 11:06:03 - Standardizing founders for company (1015): Heartflow
+2025-05-19 11:06:03 - Standardizing founders for company (1016): NextSilicon
+2025-05-19 11:06:03 - Standardizing founders for company (1017): 1047 Games
+2025-05-19 11:06:03 - Standardizing founders for company (1018): HAI ROBOTICS
+2025-05-19 11:06:03 - Standardizing founders for company (1019): Mu Sigma
+2025-05-19 11:06:03 - Standardizing founders for company (1020): impact.com
+2025-05-19 11:06:03 - Standardizing founders for company (1021): Strava
+2025-05-19 11:06:03 - Standardizing founders for company (1022): Tujia
+2025-05-19 11:06:03 - Standardizing founders for company (1023): NotCo
+2025-05-19 11:06:03 - Standardizing founders for company (1024): Snapdocs
+2025-05-19 11:06:03 - Standardizing founders for company (1025): Prometheus
+2025-05-19 11:06:03 - Standardizing founders for company (1026): Culture Amp
+2025-05-19 11:06:03 - Standardizing founders for company (1027): AppDirect
+2025-05-19 11:06:03 - Standardizing founders for company (1028): Spark Education Group
+2025-05-19 11:06:03 - Standardizing founders for company (1029): Uplight
+2025-05-19 11:06:03 - Standardizing founders for company (1030): fabric
+2025-05-19 11:06:03 - Standardizing founders for company (1031): Berachain
+2025-05-19 11:06:03 - Standardizing founders for company (1032): Sigma Computing
+2025-05-19 11:06:03 - Standardizing founders for company (1033): Pacaso
+2025-05-19 11:06:03 - Standardizing founders for company (1034): Huntress
+2025-05-19 11:06:03 - Standardizing founders for company (1035): Skild AI
+2025-05-19 11:06:03 - Standardizing founders for company (1036): Ascend Money
+2025-05-19 11:06:03 - Standardizing founders for company (1037): Sakana AI
+2025-05-19 11:06:03 - Standardizing founders for company (1038): Tyme Group
+2025-05-19 11:06:03 - Standardizing founders for company (1039): Plata
+2025-05-19 11:06:03 - Standardizing founders for company (1040): Fleetio
+2025-05-19 11:06:03 - Standardizing founders for company (1041): Chapter
+2025-05-19 11:06:03 - Standardizing founders for company (1042): Kushki
+2025-05-19 11:06:03 - Standardizing founders for company (1043): Yubi
+2025-05-19 11:06:03 - Standardizing founders for company (1044): Rad Power Bikes
+2025-05-19 11:06:03 - Standardizing founders for company (1045): Upside
+2025-05-19 11:06:03 - Standardizing founders for company (1046): Arcadia
+2025-05-19 11:06:03 - Standardizing founders for company (1047): Mashgin
+2025-05-19 11:06:03 - Standardizing founders for company (1048): Dock
+2025-05-19 11:06:03 - Standardizing founders for company (1049): Vayyar
+2025-05-19 11:06:03 - Standardizing founders for company (1050): 5ire
+2025-05-19 11:06:03 - Standardizing founders for company (1051): Orna Therapeutics
+2025-05-19 11:06:03 - Standardizing founders for company (1052): Tailscale
+2025-05-19 11:06:03 - Standardizing founders for company (1053): Jasper
+2025-05-19 11:06:03 - Standardizing founders for company (1054): HashKey
+2025-05-19 11:06:03 - Standardizing founders for company (1055): Chunqing Technology
+2025-05-19 11:06:03 - Standardizing founders for company (1056): Xpressbees
+2025-05-19 11:06:03 - Standardizing founders for company (1057): OpenWeb
+2025-05-19 11:06:03 - Standardizing founders for company (1058): Stord
+2025-05-19 11:06:03 - Standardizing founders for company (1059): slice
+2025-05-19 11:06:03 - Standardizing founders for company (1060): Placer.ai
+2025-05-19 11:06:03 - Standardizing founders for company (1061): SellerX
+2025-05-19 11:06:03 - Standardizing founders for company (1062): PAPER
+2025-05-19 11:06:03 - Standardizing founders for company (1063): InMyShow
+2025-05-19 11:06:03 - Standardizing founders for company (1064): Dt Dream
+2025-05-19 11:06:03 - Standardizing founders for company (1065): Cult.fit
+2025-05-19 11:06:03 - Standardizing founders for company (1066): eSign
+2025-05-19 11:06:03 - Standardizing founders for company (1067): Panshi
+2025-05-19 11:06:03 - Standardizing founders for company (1068): Snack Is Busy
+2025-05-19 11:06:03 - Standardizing founders for company (1069): Yuze Semiconductor
+2025-05-19 11:06:03 - Standardizing founders for company (1070): Huasun Energy
+2025-05-19 11:06:03 - Standardizing founders for company (1071): Job&Talent
+2025-05-19 11:06:03 - Standardizing founders for company (1072): Judo Bank
+2025-05-19 11:06:03 - Standardizing founders for company (1073): Ouyeel
+2025-05-19 11:06:03 - Standardizing founders for company (1074): Tuandaiwang
+2025-05-19 11:06:03 - Standardizing founders for company (1075): United Aircraft
+2025-05-19 11:06:03 - Standardizing founders for company (1076): IAD France
+2025-05-19 11:06:03 - Standardizing founders for company (1077): Aleo
+2025-05-19 11:06:03 - Standardizing founders for company (1078): M1 Holdings
+2025-05-19 11:06:03 - Standardizing founders for company (1079): Amagi Media Labs
+2025-05-19 11:06:03 - Standardizing founders for company (1080): Coocaa
+2025-05-19 11:06:03 - Standardizing founders for company (1081): T3 Mobile Travel Services
+2025-05-19 11:06:03 - Standardizing founders for company (1082): Netradyne
+2025-05-19 11:06:03 - Standardizing founders for company (1083): Seasun Games
+2025-05-19 11:06:03 - Standardizing founders for company (1084): Ledger
+2025-05-19 11:06:03 - Standardizing founders for company (1085): Ryefield Energy
+2025-05-19 11:06:03 - Standardizing founders for company (1086): Soterea
+2025-05-19 11:06:03 - Standardizing founders for company (1087): Bordrin Motors
+2025-05-19 11:06:03 - Standardizing founders for company (1088): Scalable Capital
+2025-05-19 11:06:03 - Standardizing founders for company (1089): GupShup
+2025-05-19 11:06:03 - Standardizing founders for company (1090): Clarify Health Solutions
+2025-05-19 11:06:03 - Standardizing founders for company (1091): Rebel Foods
+2025-05-19 11:06:03 - Standardizing founders for company (1092): Figment
+2025-05-19 11:06:03 - Standardizing founders for company (1093): Yotpo
+2025-05-19 11:06:03 - Standardizing founders for company (1094): Panther
+2025-05-19 11:06:03 - Standardizing founders for company (1095): VideoAmp
+2025-05-19 11:06:03 - Standardizing founders for company (1096): Salt Security
+2025-05-19 11:06:03 - Standardizing founders for company (1097): Envoy
+2025-05-19 11:06:03 - Standardizing founders for company (1098): Deliverect
+2025-05-19 11:06:03 - Standardizing founders for company (1099): Astranis
+2025-05-19 11:06:03 - Standardizing founders for company (1100): Away
+2025-05-19 11:06:03 - Standardizing founders for company (1101): Cabify
+2025-05-19 11:06:03 - Standardizing founders for company (1102): Tripledot Studios
+2025-05-19 11:06:03 - Standardizing founders for company (1103): Pristyn Care
+2025-05-19 11:06:03 - Standardizing founders for company (1104): Epidemic Sound
+2025-05-19 11:06:03 - Standardizing founders for company (1105): Papa
+2025-05-19 11:06:03 - Standardizing founders for company (1106): Maya
+2025-05-19 11:06:03 - Standardizing founders for company (1107): Degreed
+2025-05-19 11:06:03 - Standardizing founders for company (1108): Stash
+2025-05-19 11:06:03 - Standardizing founders for company (1109): Firebolt
+2025-05-19 11:06:03 - Standardizing founders for company (1110): Hike
+2025-05-19 11:06:03 - Standardizing founders for company (1111): Symphony Communication Services
+2025-05-19 11:06:03 - Standardizing founders for company (1112): TaxBit
+2025-05-19 11:06:03 - Standardizing founders for company (1113): Route
+2025-05-19 11:06:03 - Standardizing founders for company (1114): Paddle
+2025-05-19 11:06:03 - Standardizing founders for company (1115): OHouse
+2025-05-19 11:06:03 - Standardizing founders for company (1116): Wealthfront
+2025-05-19 11:06:03 - Standardizing founders for company (1117): LIQUiDITY Group
+2025-05-19 11:06:03 - Standardizing founders for company (1118): Liquid Death
+2025-05-19 11:06:03 - Standardizing founders for company (1119): AI21 Labs
+2025-05-19 11:06:03 - Standardizing founders for company (1120): eFishery
+2025-05-19 11:06:03 - Standardizing founders for company (1121): Nium
+2025-05-19 11:06:03 - Standardizing founders for company (1122): Phenom
+2025-05-19 11:06:03 - Standardizing founders for company (1123): Eon
+2025-05-19 11:06:03 - Standardizing founders for company (1124): Aragen Life Sciences
+2025-05-19 11:06:03 - Standardizing founders for company (1125): Avathon
+2025-05-19 11:06:03 - Standardizing founders for company (1126): Employment Hero
+2025-05-19 11:06:03 - Standardizing founders for company (1127): CanSemi
+2025-05-19 11:06:03 - Standardizing founders for company (1128): FPL Technologies
+2025-05-19 11:06:03 - Standardizing founders for company (1129): OVO Energy
+2025-05-19 11:06:03 - Standardizing founders for company (1130): Neon
+2025-05-19 11:06:03 - Standardizing founders for company (1131): Xingji Meizu
+2025-05-19 11:06:03 - Standardizing founders for company (1132): LONGi Hydrogen Energy
+2025-05-19 11:06:03 - Standardizing founders for company (1133): EverlyWell
+2025-05-19 11:06:03 - Standardizing founders for company (1134): Narwal Robotics
+2025-05-19 11:06:03 - Standardizing founders for company (1135): Included Health
+2025-05-19 11:06:03 - Standardizing founders for company (1136): Movable Ink
+2025-05-19 11:06:03 - Standardizing founders for company (1137): SingleStore
+2025-05-19 11:06:03 - Standardizing founders for company (1138): Epirus
+2025-05-19 11:06:03 - Standardizing founders for company (1139): At-Bay
+2025-05-19 11:06:03 - Standardizing founders for company (1140): Weidian Group
+2025-05-19 11:06:03 - Standardizing founders for company (1141): New Leshi Smart Home
+2025-05-19 11:06:03 - Standardizing founders for company (1142): ONE Championship
+2025-05-19 11:06:03 - Standardizing founders for company (1143): Jaguar Microsystems
+2025-05-19 11:06:03 - Standardizing founders for company (1144): GP Club
+2025-05-19 11:06:03 - Standardizing founders for company (1145): Signifyd
+2025-05-19 11:06:03 - Standardizing founders for company (1146): RIDI
+2025-05-19 11:06:03 - Standardizing founders for company (1147): stc pay
+2025-05-19 11:06:03 - Standardizing founders for company (1148): Human Interest
+2025-05-19 11:06:03 - Standardizing founders for company (1149): TEKEVER
+2025-05-19 11:06:03 - Standardizing founders for company (1150): AG1
+2025-05-19 11:06:03 - Standardizing founders for company (1151): Pilot
+2025-05-19 11:06:03 - Standardizing founders for company (1152): Gymshark
+2025-05-19 11:06:03 - Standardizing founders for company (1153): Intercom
+2025-05-19 11:06:03 - Standardizing founders for company (1154): Yugabyte
+2025-05-19 11:06:03 - Standardizing founders for company (1155): CoinTracker
+2025-05-19 11:06:03 - Standardizing founders for company (1156): iTrustCapital Inc.
+2025-05-19 11:06:03 - Standardizing founders for company (1157): Konfio
+2025-05-19 11:06:03 - Standardizing founders for company (1158): Domestika
+2025-05-19 11:06:03 - Standardizing founders for company (1159): Betterment
+2025-05-19 11:06:03 - Standardizing founders for company (1160): Flock Freight
+2025-05-19 11:06:03 - Standardizing founders for company (1161): Haihe Biopharma
+2025-05-19 11:06:03 - Standardizing founders for company (1162): Kr Space
+2025-05-19 11:06:03 - Standardizing founders for company (1163): Loadsmart
+2025-05-19 11:06:03 - Standardizing founders for company (1164): Clipboard Health
+2025-05-19 11:06:03 - Standardizing founders for company (1165): Optibus
+2025-05-19 11:06:03 - Standardizing founders for company (1166): Equashield
+2025-05-19 11:06:03 - Standardizing founders for company (1167): MasterControl
+2025-05-19 11:06:03 - Standardizing founders for company (1168): Mapbox
+2025-05-19 11:06:03 - Standardizing founders for company (1169): Keyfactor
+2025-05-19 11:06:03 - Standardizing founders for company (1170): Doc.com
+2025-05-19 11:06:03 - Standardizing founders for company (1171): Lukka
+2025-05-19 11:06:03 - Standardizing founders for company (1172): Linktree
+2025-05-19 11:06:03 - Standardizing founders for company (1173): Zum
+2025-05-19 11:06:03 - Standardizing founders for company (1174): DistroKid
+2025-05-19 11:06:03 - Standardizing founders for company (1175): 24M Technologies
+2025-05-19 11:06:03 - Standardizing founders for company (1176): Underdog Fantasy
+2025-05-19 11:06:03 - Standardizing founders for company (1177): Wilson Wolf Corporation
+2025-05-19 11:06:03 - Standardizing founders for company (1178): BYD Semiconductor
+2025-05-19 11:06:03 - Standardizing founders for company (1179): Gemini
+2025-05-19 11:06:03 - Standardizing founders for company (1180): Zhidou
+2025-05-19 11:06:03 - Standardizing founders for company (1181): 1mg
+2025-05-19 11:06:03 - Standardizing founders for company (1182): The Good Glamm Group
+2025-05-19 11:06:03 - Standardizing founders for company (1183): Juwan Technology
+2025-05-19 11:06:03 - Standardizing founders for company (1184): Purplle
+2025-05-19 11:06:03 - Standardizing founders for company (1185): Talos
+2025-05-19 11:06:03 - Standardizing founders for company (1186): ClassDojo
+2025-05-19 11:06:03 - Standardizing founders for company (1187): Chipper Cash
+2025-05-19 11:06:03 - Standardizing founders for company (1188): Flipdish
+2025-05-19 11:06:03 - Standardizing founders for company (1189): Incode Technologies
+2025-05-19 11:06:03 - Standardizing founders for company (1190): Tackle
+2025-05-19 11:06:03 - Standardizing founders for company (1191): Kuaikan Manhua
+2025-05-19 11:06:03 - Standardizing founders for company (1192): Sidewalk Infrastructure Partners
+2025-05-19 11:06:03 - Standardizing founders for company (1193): Honor
+2025-05-19 11:06:03 - Standardizing founders for company (1194): CaptivateIQ
+2025-05-19 11:06:03 - Standardizing founders for company (1195): airSlate
+2025-05-19 11:06:03 - Standardizing founders for company (1196): Clay
+2025-05-19 11:06:03 - Standardizing founders for company (1197): Belief BioMed
+2025-05-19 11:06:03 - Standardizing founders for company (1198): Grover
+2025-05-19 11:06:03 - Standardizing founders for company (1199): Instabase
+2025-05-19 11:06:03 - Standardizing founders for company (1200): SeatGeek
+2025-05-19 11:06:03 - Standardizing founders for company (1201): ETCP
+2025-05-19 11:06:03 - Standardizing founders for company (1202): inDrive
+2025-05-19 11:06:03 - Standardizing founders for company (1203): MicroPort CardioFlow
+2025-05-19 11:06:03 - Standardizing founders for company (1204): Spiber
+2025-05-19 11:06:03 - Standardizing founders for company (1205): Public
+2025-05-19 11:06:03 - Standardizing founders for company (1206): TBM
+2025-05-19 11:06:03 - Standardizing founders for company (1207): Castore
+2025-05-19 11:06:03 - Standardizing founders for company (1208): Moneyview
+2025-05-19 11:06:03 - Standardizing founders for company (1209): Clean Planet
+2025-05-19 11:06:03 - Standardizing founders for company (1210): Workhuman
+2025-05-19 11:06:03 - Standardizing founders for company (1211): Viz
+2025-05-19 11:06:03 - Standardizing founders for company (1212): Mensa Brands
+2025-05-19 11:06:03 - Standardizing founders for company (1213): Gem
+2025-05-19 11:06:03 - Standardizing founders for company (1214): Copado
+2025-05-19 11:06:03 - Standardizing founders for company (1215): MindTickle
+2025-05-19 11:06:03 - Standardizing founders for company (1216): Choco
+2025-05-19 11:06:03 - Standardizing founders for company (1217): Ada
+2025-05-19 11:06:03 - Standardizing founders for company (1218): CarDekho
+2025-05-19 11:06:03 - Standardizing founders for company (1219): Berlin Brands Group
+2025-05-19 11:06:03 - Standardizing founders for company (1220): SeekOut
+2025-05-19 11:06:03 - Standardizing founders for company (1221): Qumulo
+2025-05-19 11:06:03 - Standardizing founders for company (1222): Offchain Labs
+2025-05-19 11:06:03 - Standardizing founders for company (1223): Human Longevity
+2025-05-19 11:06:03 - Standardizing founders for company (1224): Multichain
+2025-05-19 11:06:03 - Standardizing founders for company (1225): SmartMore Corporation Limited
+2025-05-19 11:06:03 - Standardizing founders for company (1226): Dianrong
+2025-05-19 11:06:03 - Standardizing founders for company (1227): BigPanda
+2025-05-19 11:06:03 - Standardizing founders for company (1228): iCarbonX
+2025-05-19 11:06:03 - Standardizing founders for company (1229): Tealium
+2025-05-19 11:06:03 - Standardizing founders for company (1230): Hailo
+2025-05-19 11:06:03 - Standardizing founders for company (1231): Oyster
+2025-05-19 11:06:03 - Standardizing founders for company (1232): Unit
+2025-05-19 11:06:03 - Standardizing founders for company (1233): Stori
+2025-05-19 11:06:03 - Standardizing founders for company (1234): Our Next Energy
+2025-05-19 11:06:03 - Standardizing founders for company (1235): Porter
+2025-05-19 11:06:03 - Standardizing founders for company (1236): EGYM
+2025-05-19 11:06:03 - Standardizing founders for company (1237): ZYBER 365
+2025-05-19 11:06:03 - Standardizing founders for company (1238): Figure
+2025-05-19 11:06:03 - Standardizing founders for company (1239): AgentSync
+2025-05-19 11:06:03 - Standardizing founders for company (1240): Vectra AI
+2025-05-19 11:06:03 - Standardizing founders for company (1241): Merama
+2025-05-19 11:06:03 - Standardizing founders for company (1242): Iyuno-SDI
+2025-05-19 11:06:03 - Standardizing founders for company (1243): Form Energy
+2025-05-19 11:06:03 - Standardizing founders for company (1244): boAt
+2025-05-19 11:06:03 - Standardizing founders for company (1245): Qdama
+2025-05-19 11:06:03 - Standardizing founders for company (1246): Creatio
+2025-05-19 11:06:03 - Standardizing founders for company (1247): Helium
+2025-05-19 11:06:03 - Standardizing founders for company (1248): Hightouch
+2025-05-19 11:06:03 - Standardizing founders for company (1249): Nerdio
+2025-05-19 11:06:03 - Standardizing founders for company (1250): Livspace
+2025-05-19 11:06:03 - Standardizing founders for company (1251): Droom
+2025-05-19 11:06:03 - Standardizing founders for company (1252): XLMEC
+2025-05-19 11:06:03 - Standardizing founders for company (1253): Flip
+2025-05-19 11:06:03 - Standardizing founders for company (1254): Mews
+2025-05-19 11:06:03 - Standardizing founders for company (1255): Shiprocket
+2025-05-19 11:06:03 - Standardizing founders for company (1256): Rohlik
+2025-05-19 11:06:03 - Standardizing founders for company (1257): V3 Group
+2025-05-19 11:06:03 - Standardizing founders for company (1258): Arqiva
+2025-05-19 11:06:03 - Standardizing founders for company (1259): Proteus Digital Health
+2025-05-19 11:06:03 - Standardizing founders for company (1260): Modern Health
+2025-05-19 11:06:03 - Standardizing founders for company (1261): Innovusion
+2025-05-19 11:06:03 - Standardizing founders for company (1262): Fenergo
+2025-05-19 11:06:03 - Standardizing founders for company (1263): Alisports
+2025-05-19 11:06:03 - Standardizing founders for company (1264): Replit
+2025-05-19 11:06:03 - Standardizing founders for company (1265): Alphaeon
+2025-05-19 11:06:03 - Standardizing founders for company (1266): E-Life Financial Services
+2025-05-19 11:06:03 - Standardizing founders for company (1267): UnionTech
+2025-05-19 11:06:03 - Standardizing founders for company (1268): CloudBees
+2025-05-19 11:06:03 - Standardizing founders for company (1269): Happy Money
+2025-05-19 11:06:03 - Standardizing founders for company (1270): Elemy
+2025-05-19 11:06:03 - Standardizing founders for company (1271): Rebellion Defense
+2025-05-19 11:06:03 - Standardizing founders for company (1272): Boom Supersonic
+2025-05-19 11:06:03 - Standardizing founders for company (1273): Guideline
+2025-05-19 11:06:03 - Standardizing founders for company (1274): DevRev
+2025-05-19 11:06:03 - Standardizing founders for company (1275): Dotc United Group
+2025-05-19 11:06:03 - Standardizing founders for company (1276): Spendesk
+2025-05-19 11:06:03 - Standardizing founders for company (1277): Jiuxian
+2025-05-19 11:06:03 - Standardizing founders for company (1278): TalkingData
+2025-05-19 11:06:03 - Standardizing founders for company (1279): DANA
+2025-05-19 11:06:03 - Standardizing founders for company (1280): Tines
+2025-05-19 11:06:03 - Standardizing founders for company (1281): SKIO Matrix
+2025-05-19 11:06:03 - Standardizing founders for company (1282): RootCloud
+2025-05-19 11:06:03 - Standardizing founders for company (1283): Enable
+2025-05-19 11:06:03 - Standardizing founders for company (1284): Teld New Energy
+2025-05-19 11:06:03 - Standardizing founders for company (1285): NewsBreak
+2025-05-19 11:06:03 - Standardizing founders for company (1286): L&P Cosmetic
+2025-05-19 11:06:03 - Standardizing founders for company (1287): Nexthink
+2025-05-19 11:06:03 - Standardizing founders for company (1288): Chemao
+2025-05-19 11:06:03 - Standardizing founders for company (1289): Keyuan Petrochemicals
+2025-05-19 11:06:03 - Standardizing founders for company (1290): Inspur Cloud
+2025-05-19 11:06:03 - Standardizing founders for company (1291): Staffbase
+2025-05-19 11:06:03 - Standardizing founders for company (1292): Chief
+2025-05-19 11:06:03 - Standardizing founders for company (1293): Apna
+2025-05-19 11:06:03 - Standardizing founders for company (1294): CAIS
+2025-05-19 11:06:03 - Standardizing founders for company (1295): IntelyCare
+2025-05-19 11:06:03 - Standardizing founders for company (1296): G2
+2025-05-19 11:06:03 - Standardizing founders for company (1297): Carousell
+2025-05-19 11:06:03 - Standardizing founders for company (1298): People.ai
+2025-05-19 11:06:03 - Standardizing founders for company (1299): eSentire
+2025-05-19 11:06:03 - Standardizing founders for company (1300): Beyond Identity
+2025-05-19 11:06:03 - Standardizing founders for company (1301): Zego
+2025-05-19 11:06:03 - Standardizing founders for company (1302): Acko
+2025-05-19 11:06:03 - Standardizing founders for company (1303): Karat
+2025-05-19 11:06:03 - Standardizing founders for company (1304): Sunbit
+2025-05-19 11:06:03 - Standardizing founders for company (1305): SonderMind
+2025-05-19 11:06:03 - Standardizing founders for company (1306): Pharmapacks
+2025-05-19 11:06:03 - Standardizing founders for company (1307): GlobalBees
+2025-05-19 11:06:03 - Standardizing founders for company (1308): Yijiupi
+2025-05-19 11:06:03 - Standardizing founders for company (1309): Fundbox
+2025-05-19 11:06:03 - Standardizing founders for company (1310): LEAD
+2025-05-19 11:06:03 - Standardizing founders for company (1311): Rightway
+2025-05-19 11:06:03 - Standardizing founders for company (1312): Infobip
+2025-05-19 11:06:03 - Standardizing founders for company (1313): Deputy
+2025-05-19 11:06:03 - Standardizing founders for company (1314): Tango Me
+2025-05-19 11:06:03 - Standardizing founders for company (1315): Humanity Protocol
+2025-05-19 11:06:03 - Standardizing founders for company (1316): Invoca
+2025-05-19 11:06:03 - Standardizing founders for company (1317): Nowports
+2025-05-19 11:06:03 - Standardizing founders for company (1318): Recover
+2025-05-19 11:06:03 - Standardizing founders for company (1319): Daily Harvest
+2025-05-19 11:06:03 - Standardizing founders for company (1320): Dream Security
+2025-05-19 11:06:03 - Standardizing founders for company (1321): Statsig
+2025-05-19 11:06:03 - Standardizing founders for company (1322): Imply
+2025-05-19 11:06:03 - Standardizing founders for company (1323): Wasabi Technologies
+2025-05-19 11:06:03 - Standardizing founders for company (1324): Teleport
+2025-05-19 11:06:03 - Standardizing founders for company (1325): Material Security
+2025-05-19 11:06:03 - Standardizing founders for company (1326): Caribou
+2025-05-19 11:06:03 - Standardizing founders for company (1327): Rapido
+2025-05-19 11:06:03 - Standardizing founders for company (1328): Lendbuzz
+2025-05-19 11:06:03 - Standardizing founders for company (1329): The Bank of London
+2025-05-19 11:06:03 - Standardizing founders for company (1330): Letu
+2025-05-19 11:06:03 - Standardizing founders for company (1331): Nxin
+2025-05-19 11:06:03 - Standardizing founders for company (1332): Earnix
+2025-05-19 11:06:03 - Standardizing founders for company (1333): LeCloud
+2025-05-19 11:06:03 - Standardizing founders for company (1334): Amarenco
+2025-05-19 11:06:03 - Standardizing founders for company (1335): Cirkul
+2025-05-19 11:06:03 - Standardizing founders for company (1336): Rivigo
+2025-05-19 11:06:03 - Standardizing founders for company (1337): Veepee
+2025-05-19 11:06:03 - Standardizing founders for company (1338): MobileCoin
+2025-05-19 11:06:03 - Standardizing founders for company (1339): Radius Payment Solutions
+2025-05-19 11:06:03 - Standardizing founders for company (1340): Scivita Medical Technology
+2025-05-19 11:06:03 - Standardizing founders for company (1341): Yi'an Holdings
+2025-05-19 11:06:03 - Standardizing founders for company (1342): Branch
+2025-05-19 11:06:03 - Standardizing founders for company (1343): Density
+2025-05-19 11:06:03 - Standardizing founders for company (1344): Mixpanel
+2025-05-19 11:06:03 - Standardizing founders for company (1345): Sendbird
+2025-05-19 11:06:03 - Standardizing founders for company (1346): Luoji Siwei
+2025-05-19 11:06:03 - Standardizing founders for company (1347): Zopa
+2025-05-19 11:06:03 - Standardizing founders for company (1348): Element Biosciences
+2025-05-19 11:06:03 - Standardizing founders for company (1349): Bluepha
+2025-05-19 11:06:03 - Standardizing founders for company (1350): Astronergy
+2025-05-19 11:06:03 - Standardizing founders for company (1351): Chint New Energy
+2025-05-19 11:06:03 - Standardizing founders for company (1352): Aijia Home Furnishing Products
+2025-05-19 11:06:03 - Standardizing founders for company (1353): B&C Chemical
+2025-05-19 11:06:03 - Standardizing founders for company (1354): Miaoshou Doctor
+2025-05-19 11:06:03 - Standardizing founders for company (1355): Splashtop
+2025-05-19 11:06:03 - Standardizing founders for company (1356): Veritas Finance
+2025-05-19 11:06:03 - Standardizing founders for company (1357): Chinac.com
+2025-05-19 11:06:03 - Standardizing founders for company (1358): Morning Consult
+2025-05-19 11:06:03 - Standardizing founders for company (1359): Kong Studios
+2025-05-19 11:06:03 - Standardizing founders for company (1360): Qiyuan Core Power Technology
+2025-05-19 11:06:03 - Standardizing founders for company (1361): Electric
+2025-05-19 11:06:03 - Standardizing founders for company (1362): Juanpi
+2025-05-19 11:06:03 - Standardizing founders for company (1363): NoBroker
+2025-05-19 11:06:03 - Standardizing founders for company (1364): Gaussian Robot
+2025-05-19 11:06:03 - Standardizing founders for company (1365): Zihaiguo
+2025-05-19 11:06:03 - Standardizing founders for company (1366): Aqara
+2025-05-19 11:06:03 - Standardizing founders for company (1367): TrustDecision
+2025-05-19 11:06:03 - Standardizing founders for company (1368): Polarium
+2025-05-19 11:06:03 - Standardizing founders for company (1369): Perfios Software Solutions
+2025-05-19 11:06:03 - Standardizing founders for company (1370): NAVER Z
+2025-05-19 11:06:03 - Standardizing founders for company (1371): Gelato
+2025-05-19 11:06:03 - Standardizing founders for company (1372): Lanhu
+2025-05-19 11:06:03 - Standardizing founders for company (1373): InCred
+2025-05-19 11:06:03 - Standardizing founders for company (1374): Augury
+2025-05-19 11:06:03 - Standardizing founders for company (1375): Amount
+2025-05-19 11:06:03 - Standardizing founders for company (1376): Lydia
+2025-05-19 11:06:03 - Standardizing founders for company (1377): SmartMi International Limited
+2025-05-19 11:06:03 - Standardizing founders for company (1378): Wifi Skeleton Key
+2025-05-19 11:06:03 - Standardizing founders for company (1379): Pentera
+2025-05-19 11:06:03 - Standardizing founders for company (1380): Meero
+2025-05-19 11:06:03 - Standardizing founders for company (1381): Huasheng Haoche
+2025-05-19 11:06:03 - Standardizing founders for company (1382): Swile
+2025-05-19 11:06:03 - Standardizing founders for company (1383): Emplifi
+2025-05-19 11:06:03 - Standardizing founders for company (1384): CargoX
+2025-05-19 11:06:03 - Standardizing founders for company (1385): XTransfer
+2025-05-19 11:06:03 - Standardizing founders for company (1386): Lianshang Literature
+2025-05-19 11:06:03 - Standardizing founders for company (1387): GeoComply
+2025-05-19 11:06:03 - Standardizing founders for company (1388): Carson Group
+2025-05-19 11:06:03 - Standardizing founders for company (1389): Iodine Software
+2025-05-19 11:06:03 - Standardizing founders for company (1390): Kendra Scott Design
+2025-05-19 11:06:03 - Standardizing founders for company (1391): VNG
+2025-05-19 11:06:03 - Standardizing founders for company (1392): JD.ID
+2025-05-19 11:06:03 - Standardizing founders for company (1393): Grupo Axo
+2025-05-19 11:06:03 - Standardizing founders for company (1394): Xiaoice
+2025-05-19 11:06:03 - Standardizing founders for company (1395): Quikr
+2025-05-19 11:06:03 - Standardizing founders for company (1396): Beamery
+2025-05-19 11:06:03 - Standardizing founders for company (1397): Factorial
+2025-05-19 11:06:03 - Standardizing founders for company (1398): Open Financial Technologies
+2025-05-19 11:06:03 - Standardizing founders for company (1399): MSquared
+2025-05-19 11:06:03 - Standardizing founders for company (1400): UPSIDE Foods
+2025-05-19 11:06:03 - Standardizing founders for company (1401): NexHealth
+2025-05-19 11:06:03 - Standardizing founders for company (1402): Instabox
+2025-05-19 11:06:03 - Standardizing founders for company (1403): Divergent
+2025-05-19 11:06:03 - Standardizing founders for company (1404): iSpot.tv
+2025-05-19 11:06:03 - Standardizing founders for company (1405): Good Choice Company
+2025-05-19 11:06:03 - Standardizing founders for company (1406): reMarkable
+2025-05-19 11:06:03 - Standardizing founders for company (1407): Habi
+2025-05-19 11:06:03 - Standardizing founders for company (1408): Opn
+2025-05-19 11:06:03 - Standardizing founders for company (1409): Semperis
+2025-05-19 11:06:03 - Standardizing founders for company (1410): TransferMate
+2025-05-19 11:06:03 - Standardizing founders for company (1411): Velocity Global
+2025-05-19 11:06:03 - Standardizing founders for company (1412): JupiterOne
+2025-05-19 11:06:03 - Standardizing founders for company (1413): Ultima Genomics
+2025-05-19 11:06:03 - Standardizing founders for company (1414): Immuta
+2025-05-19 11:06:03 - Standardizing founders for company (1415): EcoVadis
+2025-05-19 11:06:03 - Standardizing founders for company (1416): Vendr
+2025-05-19 11:06:03 - Standardizing founders for company (1417): Turntide Technologies
+2025-05-19 11:06:03 - Standardizing founders for company (1418): MNTN
+2025-05-19 11:06:03 - Standardizing founders for company (1419): thatgamecompany
+2025-05-19 11:06:03 - Standardizing founders for company (1420): Zongmu
+2025-05-19 11:06:03 - Standardizing founders for company (1421): Yunyinggu
+2025-05-19 11:06:03 - Standardizing founders for company (1422): Insilico Medicine
+2025-05-19 11:06:03 - Standardizing founders for company (1423): Visby Medical
+2025-05-19 11:06:03 - Standardizing founders for company (1424): FourKites
+2025-05-19 11:06:03 - Standardizing founders for company (1425): Flexe
+2025-05-19 11:06:03 - Standardizing founders for company (1426): Tebra
+2025-05-19 11:06:03 - Standardizing founders for company (1427): JLSemi
+2025-05-19 11:06:03 - Standardizing founders for company (1428): Exterro
+2025-05-19 11:06:03 - Standardizing founders for company (1429): Prodege
+2025-05-19 11:06:03 - Standardizing founders for company (1430): Paystand
+2025-05-19 11:06:03 - Standardizing founders for company (1431): Freenome
+2025-05-19 11:06:03 - Standardizing founders for company (1432): SAIC Mobility
+2025-05-19 11:06:03 - Standardizing founders for company (1433): TerraPower
+2025-05-19 11:06:03 - Standardizing founders for company (1434): Zebec
+2025-05-19 11:06:03 - Standardizing founders for company (1435): Terawatt Infrastructure
+2025-05-19 11:06:03 - Standardizing founders for company (1436): Swiftly
+2025-05-19 11:06:03 - Standardizing founders for company (1437): LINE MAN Wongnai
+2025-05-19 11:06:03 - Standardizing founders for company (1438): Satispay
+2025-05-19 11:06:03 - Standardizing founders for company (1439): Stability AI
+2025-05-19 11:06:03 - Standardizing founders for company (1440): Xanadu
+2025-05-19 11:06:03 - Standardizing founders for company (1441): Wayve
+2025-05-19 11:06:03 - Standardizing founders for company (1442): Cambridge Mobile Telematics
+2025-05-19 11:06:03 - Standardizing founders for company (1443): Gokin Solar
+2025-05-19 11:06:03 - Standardizing founders for company (1444): MNT-Halan
+2025-05-19 11:06:03 - Standardizing founders for company (1445): Atmosphere
+2025-05-19 11:06:03 - Standardizing founders for company (1446): Character.ai
+2025-05-19 11:06:03 - Standardizing founders for company (1447): SiEngine Technology
+2025-05-19 11:06:03 - Standardizing founders for company (1448): Adept AI
+2025-05-19 11:06:03 - Standardizing founders for company (1449): Flo Health
+2025-05-19 11:06:03 - Standardizing founders for company (1450): Sygnum
+2025-05-19 11:06:03 - Standardizing founders for company (1451): Blueground
+2025-05-19 11:06:03 - Standardizing founders for company (1452): Xreal
+2025-05-19 11:06:03 - Standardizing founders for company (1453): BFMeta
+2025-05-19 11:06:03 - Standardizing founders for company (1454): Ohmium
+2025-05-19 11:06:03 - Standardizing founders for company (1455): Avenue One
+2025-05-19 11:06:03 - Standardizing founders for company (1456): Gradiant
+2025-05-19 11:06:03 - Standardizing founders for company (1457): Restaurant365
+2025-05-19 11:06:03 - Standardizing founders for company (1458): GO
+2025-05-19 11:06:03 - Standardizing founders for company (1459): DocPlanner
+2025-05-19 11:06:03 - Standardizing founders for company (1460): VectorBuilder
+2025-05-19 11:06:03 - Standardizing founders for company (1461): Agibot
+2025-05-19 11:06:03 - Standardizing founders for company (1462): 1Komma5°
+2025-05-19 11:06:03 - Standardizing founders for company (1463): Typeface
+2025-05-19 11:06:03 - Standardizing founders for company (1464): Pigment
+2025-05-19 11:06:03 - Standardizing founders for company (1465): Flashbots
+2025-05-19 11:06:03 - Standardizing founders for company (1466): Fullcryo
+2025-05-19 11:06:03 - Standardizing founders for company (1467): Imbue
+2025-05-19 11:06:03 - Standardizing founders for company (1468): Kin Insurance
+2025-05-19 11:06:03 - Standardizing founders for company (1469): Generate Biomedicines
+2025-05-19 11:06:03 - Standardizing founders for company (1470): Stegra
+2025-05-19 11:06:03 - Standardizing founders for company (1471): Verkor
+2025-05-19 11:06:03 - Standardizing founders for company (1472): Electric Hydrogen
+2025-05-19 11:06:03 - Standardizing founders for company (1473): Lyten
+2025-05-19 11:06:03 - Standardizing founders for company (1474): Prove
+2025-05-19 11:06:03 - Standardizing founders for company (1475): Rong Semiconductor
+2025-05-19 11:06:03 - Standardizing founders for company (1476): Metropolis
+2025-05-19 11:06:03 - Standardizing founders for company (1477): Anhui YOFC Advanced Semiconductor
+2025-05-19 11:06:03 - Standardizing founders for company (1478): 01.AI
+2025-05-19 11:06:03 - Standardizing founders for company (1479): Rokid
+2025-05-19 11:06:03 - Standardizing founders for company (1480): MaintainX
+2025-05-19 11:06:03 - Standardizing founders for company (1481): Andalusia Labs
+2025-05-19 11:06:03 - Standardizing founders for company (1482): Tamara
+2025-05-19 11:06:03 - Standardizing founders for company (1483): Vestwell
+2025-05-19 11:06:03 - Standardizing founders for company (1484): SolarSpace
+2025-05-19 11:06:03 - Standardizing founders for company (1485): Silicon Box
+2025-05-19 11:06:03 - Standardizing founders for company (1486): Insitro
+2025-05-19 11:06:03 - Standardizing founders for company (1487): Picnic
+2025-05-19 11:06:03 - Standardizing founders for company (1488): Krutrim
+2025-05-19 11:06:03 - Standardizing founders for company (1489): DataSnipper
+2025-05-19 11:06:03 - Standardizing founders for company (1490): Yuanxin Satellite
+2025-05-19 11:06:03 - Standardizing founders for company (1491): Bugcrowd
+2025-05-19 11:06:03 - Standardizing founders for company (1492): Polyhedra Network
+2025-05-19 11:06:03 - Standardizing founders for company (1493): Uzum
+2025-05-19 11:06:03 - Standardizing founders for company (1494): IntraBio
+2025-05-19 11:06:03 - Standardizing founders for company (1495): io.net
+2025-05-19 11:06:03 - Standardizing founders for company (1496): QI Tech
+2025-05-19 11:06:03 - Standardizing founders for company (1497): Xaira Therapeutics
+2025-05-19 11:06:03 - Standardizing founders for company (1498): Farcaster
+2025-05-19 11:06:03 - Standardizing founders for company (1499): Monad
+2025-05-19 11:06:03 - Standardizing founders for company (1500): Snorkel AI
+2025-05-19 11:06:03 - Standardizing founders for company (1501): Aqua Security
+2025-05-19 11:06:03 - Standardizing founders for company (1502): G42
+2025-05-19 11:06:03 - Standardizing founders for company (1503): Feedzai
+2025-05-19 11:06:03 - Standardizing founders for company (1504): SnapLogic
+2025-05-19 11:06:03 - Standardizing founders for company (1505): CHEQ
+2025-05-19 11:06:03 - Standardizing founders for company (1506): Ample
+2025-05-19 11:06:03 - Standardizing founders for company (1507): FLASH
+2025-05-19 11:06:03 - Standardizing founders for company (1508): Hasura
+2025-05-19 11:06:03 - Standardizing founders for company (1509): Licious
+2025-05-19 11:06:03 - Standardizing founders for company (1510): Mux
+2025-05-19 11:06:03 - Standardizing founders for company (1511): Carro
+2025-05-19 11:06:03 - Standardizing founders for company (1512): Minute Media
+2025-05-19 11:06:03 - Standardizing founders for company (1513): Vedantu
+2025-05-19 11:06:03 - Standardizing founders for company (1514): Taxfix
+2025-05-19 11:06:03 - Standardizing founders for company (1515): Printful
+2025-05-19 11:06:03 - Standardizing founders for company (1516): OneFootball
+2025-05-19 11:06:03 - Standardizing founders for company (1517): EmployerDirect Healthcare
+2025-05-19 11:06:03 - Standardizing founders for company (1518): TechStyle Fashion Group
+2025-05-19 11:06:03 - Standardizing founders for company (1519): Mobvoi
+2025-05-19 11:06:03 - Standardizing founders for company (1520): Moka
+2025-05-19 11:06:03 - Standardizing founders for company (1521): Builder.ai
+2025-05-19 11:06:03 - Standardizing founders for company (1522): Zhaogang.com
+2025-05-19 11:06:03 - Standardizing founders for company (1523): MegaRobo
+2025-05-19 11:06:03 - Standardizing founders for company (1524): Ninebot
+2025-05-19 11:06:03 - Standardizing founders for company (1525): Beisen
+2025-05-19 11:06:03 - Standardizing founders for company (1526): HT Aero
+2025-05-19 11:06:03 - Standardizing founders for company (1527): Parametrix.ai
+2025-05-19 11:06:03 - Standardizing founders for company (1528): Shippo
+2025-05-19 11:06:03 - Standardizing founders for company (1529): Verily
+2025-05-19 11:06:03 - Standardizing founders for company (1530): Qiniu
+2025-05-19 11:06:03 - Standardizing founders for company (1531): Raisin
+2025-05-19 11:06:03 - Standardizing founders for company (1532): LeadSquared
+2025-05-19 11:06:03 - Standardizing founders for company (1533): Bluecore
+2025-05-19 11:06:03 - Standardizing founders for company (1534): Genies
+2025-05-19 11:06:03 - Standardizing founders for company (1535): Qingju
+2025-05-19 11:06:03 - Standardizing founders for company (1536): Shouqi Limousine & Chauffeur
+2025-05-19 11:06:03 - Standardizing founders for company (1537): VulcanForms
+2025-05-19 11:06:03 - Standardizing founders for company (1538): Unstoppable Domains
+2025-05-19 11:06:03 - Standardizing founders for company (1539): Sightline Payments
+2025-05-19 11:06:03 - Standardizing founders for company (1540): Dune Analytics
+2025-05-19 11:06:03 - Standardizing founders for company (1541): POIZON
+2025-05-19 11:06:03 - Standardizing founders for company (1542): assembly
+2025-05-19 11:06:03 - Standardizing founders for company (1543): BillionToOne
+2025-05-19 11:06:03 - Standardizing founders for company (1544): Speak
+2025-05-19 11:06:03 - Standardizing founders for company (1545): Create Music Group
+2025-05-19 11:06:03 - Standardizing founders for company (1546): Aven
+2025-05-19 11:06:03 - Standardizing founders for company (1547): Huma
+2025-05-19 11:06:03 - Standardizing founders for company (1548): Altana
+2025-05-19 11:06:03 - Standardizing founders for company (1549): Fruitist
+2025-05-19 11:06:03 - Standardizing founders for company (1550): Cosm
+2025-05-19 11:06:03 - Standardizing founders for company (1551): EliseAI
+2025-05-19 11:06:03 - Standardizing founders for company (1552): Kiteworks
+2025-05-19 11:06:03 - Standardizing founders for company (1553): Svante
+2025-05-19 11:06:03 - Standardizing founders for company (1554): World Labs
+2025-05-19 11:06:03 - Standardizing founders for company (1555): Rentberry
+2025-05-19 11:06:03 - Standardizing founders for company (1556): Twelve
+2025-05-19 11:06:03 - Standardizing founders for company (1557): HIF Global
+2025-05-19 11:06:03 - Standardizing founders for company (1558): EvenUp
+2025-05-19 11:06:03 - Standardizing founders for company (1559): Nimble Robotics
+2025-05-19 11:06:03 - Standardizing founders for company (1560): Moniepoint
+2025-05-19 11:06:03 - Standardizing founders for company (1561): Pacific Fusion
+2025-05-19 11:06:03 - Standardizing founders for company (1562): Halcyon
+2025-05-19 11:06:03 - Standardizing founders for company (1563): Lighthouse
+2025-05-19 11:06:03 - Standardizing founders for company (1564): Ayar Labs
+2025-05-19 11:06:03 - Standardizing founders for company (1565): StepStar
+2025-05-19 11:06:03 - Standardizing founders for company (1566): Cera
+2025-05-19 11:06:03 - Standardizing founders for company (1567): Truveta
+2025-05-19 11:06:03 - Standardizing founders for company (1568): Loft Orbital
+2025-05-19 11:06:03 - Standardizing founders for company (1569): OpenEvidence
+2025-05-19 11:06:03 - Standardizing founders for company (1570): GI Water as a Service
+2025-05-19 11:06:03 - Standardizing founders for company (1571): BuildOps
+2025-05-19 11:06:03 - Standardizing founders for company (1572): Cyberhaven
+2025-05-19 11:06:03 - Standardizing founders for company (1573): Redpanda Data
+2025-05-19 11:06:03 - Standardizing founders for company (1574): Assured Insurance Technologies
+2025-05-19 11:06:03 - Standardizing founders for company (1575): Endless
+2025-05-19 11:06:03 - Standardizing founders for company (1576): Nourish
+2025-05-19 11:06:03 - Standardizing founders for company (1577): Quantum Systems
+2025-05-19 11:06:03 - Standardizing founders for company (1578): Parloa
+2025-05-19 11:06:03 - Standardizing founders for company (1579): JSW One
+2025-05-19 11:06:03 - Standardizing founders for company (1580): Owner
+2025-05-19 11:06:03 - Standardizing founders for company (1581): Palmetto Clean Technology
+2025-05-19 11:06:03 - Standardizing founders for company (1582): Moody
+2025-05-19 11:06:03 - Standardizing founders for company (1583): Mythical Games
+2025-05-19 11:06:03 - Standardizing founders for company (1584): BigID
+2025-05-19 11:06:03 - Standardizing founders for company (1585): Shift Technology
+2025-05-19 11:06:03 - Standardizing founders for company (1586): Turo
+2025-05-19 11:06:03 - Standardizing founders for company (1587): LetsGetChecked
+2025-05-19 11:06:03 - Standardizing founders for company (1588): Climeworks
+2025-05-19 11:06:03 - Standardizing founders for company (1589): Stax
+2025-05-19 11:06:03 - Standardizing founders for company (1590): Oxyzo
+2025-05-19 11:06:03 - Standardizing founders for company (1591): Teya
+2025-05-19 11:06:03 - Standardizing founders for company (1592): Payhawk
+2025-05-19 11:06:03 - Standardizing founders for company (1593): Esusu
+2025-05-19 11:06:03 - Standardizing founders for company (1594): Tarana Wireless
+2025-05-19 11:06:03 - Standardizing founders for company (1595): Savage X Fenty
+2025-05-19 11:06:03 - Standardizing founders for company (1596): Omada Health
+2025-05-19 11:06:03 - Standardizing founders for company (1597): BlueVoyant
+2025-05-19 11:06:03 - Standardizing founders for company (1598): UST
+2025-05-19 11:06:03 - Standardizing founders for company (1599): Securonix
+2025-05-19 11:06:03 - Standardizing founders for company (1600): Plus
+2025-05-19 11:06:03 - Standardizing founders for company (1601): Tractable
+2025-05-19 11:06:03 - Standardizing founders for company (1602): PPRO
+2025-05-19 11:06:03 - Standardizing founders for company (1603): Eat Just
+2025-05-19 11:06:03 - Standardizing founders for company (1604): Sift
+2025-05-19 11:06:03 - Standardizing founders for company (1605): BostonGene
+2025-05-19 11:06:03 - Standardizing founders for company (1606): Xendit
+2025-05-19 11:06:03 - Standardizing founders for company (1607): Gauntlet
+2025-05-19 11:06:03 - Standardizing founders for company (1608): Aibee
+2025-05-19 11:06:03 - Standardizing founders for company (1609): ShipBob
+2025-05-19 11:06:03 - Standardizing founders for company (1610): Picsart
+2025-05-19 11:06:03 - Standardizing founders for company (1611): Darwinbox
+2025-05-19 11:06:03 - Standardizing founders for company (1612): Fabric
+2025-05-19 11:06:03 - Standardizing founders for company (1613): Visier
+2025-05-19 11:06:03 - Standardizing founders for company (1614): PandaDoc
+2025-05-19 11:06:03 - Standardizing founders for company (1615): Sisense
+2025-05-19 11:06:03 - Standardizing founders for company (1616): Forte
+2025-05-19 11:06:03 - Standardizing founders for company (1617): Jellysmack
+2025-05-19 11:06:03 - Standardizing founders for company (1618): Timescale
+2025-05-19 11:06:03 - Standardizing founders for company (1619): Amperity
+2025-05-19 11:06:03 - Standardizing founders for company (1620): Ivalua
+2025-05-19 11:06:03 - Standardizing founders for company (1621): Commonwealth Fusion
+2025-05-19 11:06:03 - Standardizing founders for company (1622): Clearcover
+2025-05-19 11:06:03 - Standardizing founders for company (1623): Facily
+2025-05-19 11:06:03 - Standardizing founders for company (1624): Thirty Madison
+2025-05-19 11:06:03 - Standardizing founders for company (1625): Nature's Fynd
+2025-05-19 11:06:03 - Standardizing founders for company (1626): Standard Cognition
+2025-05-19 11:06:03 - Standardizing founders for company (1627): Resilience
+2025-05-19 11:06:03 - Standardizing founders for company (1628): OfferUp
+2025-05-19 11:06:03 - Standardizing founders for company (1629): Ajaib
+2025-05-19 11:06:03 - Standardizing founders for company (1630): Wisk Aero
+2025-05-19 11:06:03 - Standardizing founders for company (1631): Binance
+2025-05-19 11:06:03 - Standardizing founders for company (1632): Scandit
+2025-05-19 11:06:03 - Standardizing founders for company (1633): PatSnap
+2025-05-19 11:06:03 - Standardizing founders for company (1634): Quizlet
+2025-05-19 11:06:03 - Standardizing founders for company (1635): Interos
+2025-05-19 11:06:03 - Standardizing founders for company (1636): C2FO
+2025-05-19 11:06:03 - Standardizing founders for company (1637): Axelar Network
+2025-05-19 11:06:03 - Standardizing founders for company (1638): Masterworks
+2025-05-19 11:06:03 - Standardizing founders for company (1639): Hotmart
+2025-05-19 11:06:03 - Standardizing founders for company (1640): YipitData
+2025-05-19 11:06:03 - Standardizing founders for company (1641): Bringg
+2025-05-19 11:06:03 - Standardizing founders for company (1642): Clara
+2025-05-19 11:06:03 - Standardizing founders for company (1643): CommerceIQ
+2025-05-19 11:06:03 - Standardizing founders for company (1644): EquipmentShare
+2025-05-19 11:06:03 - Standardizing founders for company (1645): Betterfly
+2025-05-19 11:06:03 - Standardizing founders for company (1646): Newsela
+2025-05-19 11:06:03 - Standardizing founders for company (1647): Sidecar Health
+2025-05-19 11:06:03 - Standardizing founders for company (1648): Expel
+2025-05-19 11:06:03 - Standardizing founders for company (1649): EBANX
+2025-05-19 11:06:03 - Standardizing founders for company (1650): Owkin
+2025-05-19 11:06:03 - Standardizing founders for company (1651): GoGuardian
+2025-05-19 11:06:03 - Standardizing founders for company (1652): FreshBooks
+2025-05-19 11:06:03 - Standardizing founders for company (1653): WeLab
+2025-05-19 11:06:03 - Standardizing founders for company (1654): Cider
+2025-05-19 11:06:03 - Standardizing founders for company (1655): Omio
+2025-05-19 11:06:03 - Standardizing founders for company (1656): MinIO
+2025-05-19 11:06:03 - Standardizing founders for company (1657): Stytch
+2025-05-19 11:06:03 - Standardizing founders for company (1658): Mark43
+2025-05-19 11:06:03 - Standardizing founders for company (1659): Evidation Health
+2025-05-19 11:06:03 - Standardizing founders for company (1660): Glia
+2025-05-19 11:06:03 - Standardizing founders for company (1661): FabFitFun
+2025-05-19 11:06:03 - Standardizing founders for company (1662): Dental Monitoring
+2025-05-19 11:06:03 - Standardizing founders for company (1663): Kopi Kenangan
+2025-05-19 11:06:03 - Standardizing founders for company (1664): Assent
+2025-05-19 11:06:03 - Standardizing founders for company (1665): Movile
+2025-05-19 11:06:03 - Standardizing founders for company (1666): Solo.io
+2025-05-19 11:06:03 - Standardizing founders for company (1667): Immunai
+2025-05-19 11:06:03 - Standardizing founders for company (1668): Chrono24
+2025-05-19 11:06:03 - Standardizing founders for company (1669): Healthcare.com
+2025-05-19 11:06:03 - Standardizing founders for company (1670): The Zebra
+2025-05-19 11:06:03 - Standardizing founders for company (1671): Moore Threads
+2025-05-19 11:06:03 - Standardizing founders for company (1672): Rothy's
+2025-05-19 11:06:03 - Standardizing founders for company (1673): HMD
+2025-05-19 11:06:03 - Standardizing founders for company (1674): Simply
+2025-05-19 11:06:03 - Standardizing founders for company (1675): Vagaro
+2025-05-19 11:06:03 - Standardizing founders for company (1676): Motorway
+2025-05-19 11:06:03 - Standardizing founders for company (1677): Semios
+2025-05-19 11:06:03 - Standardizing founders for company (1678): Dubizzle Group
+2025-05-19 11:06:03 - Standardizing founders for company (1679): Patpat
+2025-05-19 11:06:03 - Standardizing founders for company (1680): Momenta
+2025-05-19 11:06:03 - Standardizing founders for company (1681): Injective
+2025-05-19 11:06:03 - Standardizing founders for company (1682): Place
+2025-05-19 11:06:03 - Standardizing founders for company (1683): ProLogium Technology
+2025-05-19 11:06:03 - Standardizing founders for company (1684): Fiture
+2025-05-19 11:06:03 - Standardizing founders for company (1685): JMGO
+2025-05-19 11:06:03 - Standardizing founders for company (1686): GoGoX
+2025-05-19 11:06:03 - Standardizing founders for company (1687): Cadence Solutions
+2025-05-19 11:06:03 - Standardizing founders for company (1688): Scalapay
+2025-05-19 11:06:03 - Standardizing founders for company (1689): HAEGIN
+2025-05-19 11:06:03 - Standardizing founders for company (1690): Pet Circle
+2025-05-19 11:06:03 - Standardizing founders for company (1691): Fenbeitong
+2025-05-19 11:06:03 - Standardizing founders for company (1692): MadeiraMadeira
+2025-05-19 11:06:03 - Standardizing founders for company (1693): Kujiale
+2025-05-19 11:06:03 - Standardizing founders for company (1694): Jollychic
+2025-05-19 11:06:03 - Standardizing founders for company (1695): Agile Robots AG
+2025-05-19 11:06:03 - Standardizing founders for company (1696): Deeproute
+2025-05-19 11:06:03 - Standardizing founders for company (1697): Orca Bio
+2025-05-19 11:06:03 - Standardizing founders for company (1698): EcoFlow Tech
+2025-05-19 11:06:03 - Standardizing founders for company (1699): OrCam Technologies
+2025-05-19 11:06:03 - Standardizing founders for company (1700): Hujiang Education Technologies
+2025-05-19 11:06:03 - Standardizing founders for company (1701): Zhuanzhuan
+2025-05-19 11:06:03 - Standardizing founders for company (1702): Pat McGrath Labs
+2025-05-19 11:06:03 - Standardizing founders for company (1703): Maimai
+2025-05-19 11:06:03 - Standardizing founders for company (1704): LMAX Group
+2025-05-19 11:06:03 - Standardizing founders for company (1705): BeiBei
+2025-05-19 11:06:03 - Standardizing founders for company (1706): Numbrs
+2025-05-19 11:06:03 - Standardizing founders for company (1707): KKW Beauty
+2025-05-19 11:06:03 - Standardizing founders for company (1708): Tezign
+2025-05-19 11:06:03 - Standardizing founders for company (1709): Squirrel Ai Learning
+2025-05-19 11:06:03 - Standardizing founders for company (1710): VNLIFE
+2025-05-19 11:06:03 - Standardizing founders for company (1711): Kakao Enterprise
+2025-05-19 11:06:03 - Standardizing founders for company (1712): Interswitch
+2025-05-19 11:06:03 - Standardizing founders for company (1713): LinkDoc Technology
+2025-05-19 11:06:03 - Standardizing founders for company (1714): Tresata
+2025-05-19 11:06:03 - Standardizing founders for company (1715): MiningLamp
+2025-05-19 11:06:03 - Standardizing founders for company (1716): Mia.com
+2025-05-19 11:06:03 - Standardizing founders for company (1717): Bitfury Group
+2025-05-19 11:06:03 - Standardizing founders for company (1718): Benlai
+2025-05-19 11:06:03 - Standardizing founders for company (1719): DXY
+2025-05-19 11:06:03 - Standardizing founders for company (1720): Jushuitan Network Technology
+2025-05-19 11:06:03 - Standardizing founders for company (1721): Contrast Security
+2025-05-19 11:06:03 - Standardizing founders for company (1722): Formation Bio
+2025-05-19 11:06:03 - Standardizing founders for company (1723): 58 Daojia
+2025-05-19 11:06:03 - Standardizing founders for company (1724): YunQuNa
+2025-05-19 11:06:03 - Standardizing founders for company (1725): Banma Network Technologies
+2025-05-19 11:06:03 - Standardizing founders for company (1726): Mofang Gongyu
+2025-05-19 11:06:03 - Standardizing founders for company (1727): Playco
+2025-05-19 11:06:03 - Standardizing founders for company (1728): Huikedu Group
+2025-05-19 11:06:03 - Standardizing founders for company (1729): Knowbox
+2025-05-19 11:06:03 - Standardizing founders for company (1730): Yidian Zixun
+2025-05-19 11:06:03 - Standardizing founders for company (1731): Qualia
+2025-05-19 11:06:03 - Standardizing founders for company (1732): Zwift
+2025-05-19 11:06:03 - Standardizing founders for company (1733): Arrail Dental Clinic
+2025-05-19 11:06:03 - Standardizing founders for company (1734): Red Ventures
+2025-05-19 11:06:03 - Standardizing founders for company (1735): Aircall
+2025-05-19 11:06:03 - Standardizing founders for company (1736): Orbbec
+2025-05-19 11:06:03 - Standardizing founders for company (1737): COSMOplat
+2025-05-19 11:06:03 - Standardizing founders for company (1738): Xforceplus
+2025-05-19 11:06:03 - Standardizing founders for company (1739): Mammoth Biosciences
+2025-05-19 11:06:03 - Standardizing founders for company (1740): YH Global
+2025-05-19 11:06:03 - Standardizing founders for company (1741): Haomo.AI
+2025-05-19 11:06:03 - Standardizing founders for company (1742): Unisound
+2025-05-19 11:06:03 - Standardizing founders for company (1743): REEF
+2025-05-19 11:06:03 - Standardizing founders for company (1744): Capsule
+2025-05-19 11:06:03 - Standardizing founders for company (1745): Quantum Metric
+2025-05-19 11:06:03 - Standardizing founders for company (1746): FXiaoKe
+2025-05-19 11:06:03 - Standardizing founders for company (1747): SmartAsset
+2025-05-19 11:06:03 - Standardizing founders for company (1748): Lookout
+2025-05-19 11:06:03 - Standardizing founders for company (1749): Fractal
+2025-05-19 11:06:03 - Standardizing founders for company (1750): Yidao Yongche
+2025-05-19 11:06:03 - Standardizing founders for company (1751): Xiaozhu.com
+2025-05-19 11:06:03 - Standardizing founders for company (1752): Hyperchain Technologies
+2025-05-19 11:06:03 - Standardizing founders for company (1753): Moviebook
+2025-05-19 11:06:03 - Standardizing founders for company (1754): Klook
+2025-05-19 11:06:03 - Standardizing founders for company (1755): Anyscale
+2025-05-19 11:06:03 - Standardizing founders for company (1756): Newlink
+2025-05-19 11:06:03 - Standardizing founders for company (1757): Tenglong Holding Group
+2025-05-19 11:06:03 - Standardizing founders for company (1758): APUS Group
+2025-05-19 11:06:03 - Standardizing founders for company (1759): Tencent Trusted Doctors
+2025-05-19 11:06:03 - Standardizing founders for company (1760): Orchard
+2025-05-19 11:06:03 - Standardizing founders for company (1761): Infarm
+2025-05-19 11:06:03 - Standardizing founders for company (1762): InvestCloud
+2025-05-19 11:06:03 - Standardizing founders for company (1763): Revolution Precrafted
+2025-05-19 11:06:03 - Standardizing founders for company (1764): Sennder
+2025-05-19 11:06:03 - Standardizing founders for company (1765): Womai
+2025-05-19 11:06:03 - Standardizing founders for company (1766): Haydon
+2025-05-19 11:06:03 - Standardizing founders for company (1767): Lamabang
+2025-05-19 11:06:03 - Standardizing founders for company (1768): 1KMXC
+2025-05-19 11:06:03 - Standardizing founders for company (1769): Vise
+2025-05-19 11:06:03 - Standardizing founders for company (1770): Webull
+2025-05-19 11:06:03 - Standardizing founders for company (1771): Univers
+2025-05-19 11:06:03 - Standardizing founders for company (1772): AESC
+2025-05-19 11:06:03 - Successfully standardized founder data. Output written to Unicorns_founders_standardized.csv
