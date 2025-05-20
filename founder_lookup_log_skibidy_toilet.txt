@@ -1,0 +1,5 @@
+Founder Lookup Log - Session Start: 2025-05-19 13:29:22
+2025-05-19 13:29:22 - Output will be written to: Unicorns_cleaned_with_founders.csv
+2025-05-19 13:29:22 - Found 1585 companies already in Unicorns_cleaned_with_founders.csv. Will skip these.
+2025-05-19 13:29:22 - Starting company processing from Unicorns_cleaned.csv...
+2025-05-19 13:29:22 - Finished processing. Total new companies processed in this run: 0. Output in Unicorns_cleaned_with_founders.csv
